@@ -68,3 +68,14 @@
 - `PC-060`: community session and retry code includes authentication and direct-access paths. Only a controlled adapter with explicit authorization, idempotency and fail-closed recovery is suitable for local design review.
 - `SE-027` / `PC-061`: a private out-of-sample distribution review helps assess robustness but cannot define official OS semantics, a universal threshold or an admission bypass.
 - `PC-063`: multi-agent, Skills and RAG examples can expose raw context or direct execution capability. The public asset retains only role isolation, bounded memory and deterministic handoff requirements.
+
+## KNOW-20260718-008 current deep-collection unknowns
+
+- `CM-019` / `PC-077`: the detailed Osmosis narrative is a practitioner portfolio model, not current official evidence. Eligibility, pool scope, points, rewards, update timing, and account-write semantics remain `UNKNOWN`.
+- `SE-028` / `PC-064` / `PC-070`: lineage and raw-to-summary separation are useful engineering patterns, but a summary cannot become a source of truth for a real platform action. Public and AI-facing projections must remain redacted.
+- `SE-029` / `PC-067` / `PC-068`: direct-worker reports of throttling and concurrency contain no authoritative capacity, scope, reset, or retry contract. Scheduler values remain locally validated safety settings only.
+- `SE-030` / `PC-066` / `PC-072`: a source-proposed repair or field-shape heuristic cannot establish current operator semantics. Ambiguous repairs must fail closed pending an approved registry snapshot and private semantic evidence.
+- `SE-031` / `PC-073`: relationship taxonomies are research metadata, not formulas or a proof of lower correlation. Any future instantiation needs human rationale, field/type scope, operator checks, and a private experiment.
+- `SE-032` / `PC-071`: direct WQ command/control projects conflict with the project authority boundary. They cannot be vendored, translated, called, or used to derive a bypass.
+- `CPE-012` / `PC-069`: one local Self/PPAC-style report is counterevidence to a monotonic funnel only. It does not define any official metric, pool membership, direction, threshold, or screening rule.
+- `PC-074` / `PC-075` / `PC-076`: scoped optimization, surrogate-ranking, and AI-workflow narratives remain hypotheses. Personal formulas, scores, capacities, quotas, and direct action paths are excluded.

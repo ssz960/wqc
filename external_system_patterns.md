@@ -71,3 +71,20 @@ Forum and public GitHub sources included direct authentication, endpoint, pollin
 - Static parsing can create a private dependency manifest for CandidatePlan review. Registry validation and semantic-parity review remain independent gates.
 - MCP and LLM helpers may turn sanitized metadata into research notes or draft descriptions. They do not receive private expressions, credentials, result data or platform authority.
 - Account-write examples such as Osmosis allocation are retained only as non-adoptable risk evidence.
+
+## KNOW-20260718-008 Current Deep-Collection Patterns
+
+- Preserve a private research lineage distinct from a small, redacted decision summary. The summary can support human review, but it cannot reconstruct an expression, account result, raw payload, or execution intent.
+- Make desired concurrency scheduler-owned and durable. Workers report leases, heartbeats, and opaque state transitions; they never invent platform capacity or independently retry a throttled call.
+- Treat field shape, operator signature, and documentation mismatch as registry-validation problems. An automated repair is a new proposed candidate with a semantic-delta record, not a silent rewrite.
+- Use role-only template taxonomies for research intake: primary role, secondary role, relationship hypothesis, optional conditioning role, and topology. Instantiate nothing until human semantic review and a scoped registry check pass.
+- Direct command surfaces that expose auth, simulate, retrieve, mutate, or submit are non-adoptable. They are security-test inputs for local mocks, never a connector implementation.
+- A private raw-artifact and progress-log layer can protect LLM context, provided that the LLM receives only a bounded redacted summary and has no adapter, budget, or write capability.
+
+## Current Manual Review Targets
+
+- `TOPIC-41706827651991`: direct command/control release; retain as a prohibited integration pattern.
+- `TOPIC-41363885291031`: wrapper architecture; verify a sanitized summary contract without importing source execution logic.
+- `TOPIC-35581087524503`: direct correlation utility; retain only as an ordering counterexample and credential risk.
+- `TOPIC-40346082255255`: Osmosis narrative; obtain current official rule text before any interpretation.
+- `TOPIC-40962462282007`: scoped check-repair narrative; reproduce only with a private one-mutation experiment and no formula publication.

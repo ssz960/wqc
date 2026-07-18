@@ -52,3 +52,11 @@ Daily simulation capacity and local budget safety,CM-018;PC-062,2,GAP,FORUM_EXPE
 Approved adapter retry and lifecycle boundary,PC-060,2,PARTIAL,FORUM_EXPERIENCE,Central error taxonomy and idempotency are reusable only behind an approved adapter with no copied access logic.
 Private out-of-sample robustness review,SE-027;PC-061,1,PARTIAL,FORUM_EXPERIENCE,Distributional review is advisory with explicit scope and provenance; it does not define an official gate.
 Role-scoped Skills RAG and research memory,PC-063,4,PARTIAL,FORUM_EXPERIENCE,Modular advisory roles require redaction, bounded context and denied adapter access.
+Research lineage and template lifecycle,SE-028;SE-031;PC-064;PC-065;PC-073,4,PARTIAL,FORUM_EXPERIENCE,Private lineage and role taxonomy only; no formula or yield rule is adopted
+Controller worker concurrency and artifact isolation,SE-029;PC-067;PC-068;PC-070,4,PARTIAL,FORUM_EXPERIENCE,Shared scheduler and redacted summary patterns only; capacity remains UNKNOWN
+Candidate repair and registry safety,SE-030;PC-066;PC-072,3,PARTIAL,INFERENCE,Repair is a private proposed version requiring registry and semantic validation
+Direct WQ command control tooling,SE-032;PC-071,3,GAP,LOCAL_EVIDENCE,Execution-capable source projects are prohibited integration patterns
+Osmosis composition and allocation narratives,CM-019;PC-077,1,GAP,FORUM_EXPERIENCE,Current official eligibility reward and account-write semantics remain UNKNOWN
+Local correlation ordering counterexample,CPE-012;PC-069,1,PARTIAL,FORUM_EXPERIENCE,Counterexample prevents a monotonic Self-to-PP rule; no metric semantics or cutoff adopted
+Offline parameter prioritization and controlled repair,PC-074;PC-075,2,PARTIAL,FORUM_EXPERIENCE,Research ranking and mutation discipline only; no quota or execution rule
+AI research role boundary,PC-076;SE-032,3,PARTIAL,FORUM_EXPERIENCE,AI is advisory with redacted context and human-owned decisions

@@ -76,3 +76,15 @@ Highest-priority human review: `SE-025`, `SE-026`, `PC-052`, `PC-053`, `PC-054`,
 Nine further source-index entries, one Consultant-mechanism claim (`CM-018`), one system-engineering claim (`SE-027`) and four Practice Cards (`PC-060` through `PC-063`) were distilled from the later high-priority collection. All remain `FORUM_EXPERIENCE`; no direct request code, session logic, identifier, result, expression, account data or quota threshold is published.
 
 Highest-priority human review: `CM-018`, `SE-027`, `PC-060`, `PC-061`, `PC-062`, and `PC-063`.
+
+# KNOW-20260718-008 current deep-collection supplement
+
+The local read-only corpus now contains 957 complete forum bodies across the four-board catalogue of 6,558 topics. Board coverage is Kunqi 573, Africa 15, Global 81, and Consultant Chinese 288. Five newly attempted Chinese-board pages remain in the local retry queue; they are not treated as absent, complete, or evidence.
+
+This supplement adds 16 sanitized source-index rows, one Consultant-mechanism claim (`CM-019`), five system-engineering claims (`SE-028` through `SE-032`), fourteen Practice Cards (`PC-064` through `PC-077`), one correlation counterexample row (`CPE-012`), and one non-executable role-only template intake record. The local official Documents index remains 74 documents.
+
+All new forum evidence is `FORUM_EXPERIENCE` except `SE-030`, which is explicitly labelled `INFERENCE`, and `SE-032`, which is `LOCAL_EVIDENCE` for the project governance boundary. No forum experience is promoted to an admission, quota, scheduler capacity, correlation threshold, reward, PPA, Osmosis, promotion, or account-write rule.
+
+The public set excludes complete posts, comments, authors, credentials, cookies, account data, candidate identifiers, expressions, settings, result values, PnL, submitted pools, requests, headers, production addresses, and executable direct-platform code. `manifest.json` remains empty because the repository constitution requires human review before an artifact becomes manifest-listed.
+
+Highest-priority human review: `CM-019`, `SE-028`, `SE-029`, `SE-030`, `SE-032`, `PC-068`, `PC-069`, `PC-070`, `PC-071`, `PC-077`, and `CPE-012`.

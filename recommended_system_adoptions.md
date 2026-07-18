@@ -55,3 +55,14 @@ Do not adopt quota, reward, Osmosis, Pyramid, or interface-specific values until
 33. Add an advisory private robustness-review artifact after authorized results exist. It must include scope, window, coverage and aggregate provenance, and cannot reveal results publicly or override hard admission.
 34. Treat any local simulation-budget reservation as an internal safety ceiling, not a statement about platform quota or reset. Official evidence is required before scheduler capacity configuration.
 35. Enforce role-scoped assistant and Skill contracts: redacted metadata in, draft plan or review out, and no direct adapter, budget or account-write capability.
+
+## KNOW-20260718-008 Current Deep-Collection Adoptions
+
+36. Adopt `SE-028` as a private research-lifecycle contract: immutable lineage and outcome state are separate from a bounded, sanitized decision projection. Neither public review nor external AI receives raw results, expressions, or IDs.
+37. Adopt `SE-029` only as a scheduler design pattern: desired concurrency, leases, heartbeats, and reconciliation belong to one durable owner. Do not derive capacity, scope, or retry timing from the forum reports.
+38. Adopt `SE-030`: a syntax or operator repair is a new private CandidatePlan proposal with a semantic-delta record. It must validate against an approved registry snapshot and fail closed on ambiguity.
+39. Adopt `SE-031` as a role-only template intake vocabulary. Relationship, role, conditioning, and topology tags may guide research review, but are not formulas, correlation claims, or admission evidence.
+40. Enforce `SE-032` and `PC-071`: direct platform control tools, credential handlers, autonomous submitters, and copied session clients are prohibited inputs. Use their state coverage only to improve local mocks and threat modelling.
+41. Keep `PC-075` as an optional offline experiment-prioritization hypothesis. A surrogate can rank a finite private study queue but cannot allocate real budget, execute a call, or bypass hard admission.
+
+`CM-019` and `PC-077` do not authorize Osmosis modelling, point allocation, reward inference, or account action. Current official terms and an explicit human-approved workflow are required first.

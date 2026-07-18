@@ -105,3 +105,22 @@ No new importable template was created from this continuation. The relevant post
 - Treat claimed daily request limits and client-side stop thresholds as `UNKNOWN` forum experience. Internal budget reservation is only a safety guard; it does not predict or control platform capacity.
 - Add private scope-bound out-of-sample robustness review after authorized results are available. Preserve profile, window and coverage provenance; retain neither result values nor code in public assets.
 - Build Skills, RAG and multi-agent workflows as advisory modules with redacted context, bounded tasks and one-way handoff into deterministic CandidatePlan review.
+
+## Current Deep Collection: Researcher Notes
+
+### Material signal
+
+- Treat template work as a role-taxonomy problem before it becomes an expression problem. A useful research brief can name a primary role, secondary role, relationship hypothesis, optional condition, and topology without revealing a field or formula.
+- Preserve research lineage privately: origin, proposed mutation class, registry snapshot, terminal state, and next review question. Send GPT only a bounded redacted decision note, never raw results or candidate material.
+- When a candidate fails a check, record a scoped diagnosis and one reversible mutation. Do not turn a personal repair narrative into a universal coverage, correlation, or configuration rule.
+- Use automated repair only to draft a new candidate version. Operator and field semantics must come from an approved registry snapshot, and an ambiguous rewrite must stop.
+- A bounded offline surrogate may prioritize a private experiment, but it cannot assert a quota, launch a real operation, or replace admission and independent checks.
+- AI works best as a constrained research assistant: human-owned thesis and scope in, redacted CandidatePlan proposal out. It does not own platform actions, budget, or final research judgment.
+
+### Template-family posture
+
+`public.two_role.relationship_hypothesis` is a non-executable role schema, not an Alpha formula. It exists so a reviewer can ask whether two roles have a defensible relationship before selecting any field or operator from a private approved registry.
+
+### Safety boundary
+
+Community command-line and wrapper projects demonstrate useful state categories and artifact boundaries, but direct authentication, retrieval, simulation, metadata mutation, correlation, and submission implementations are prohibited inputs. All Osmosis composition material remains manual research context until current official terms are captured.
