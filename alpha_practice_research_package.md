@@ -98,3 +98,10 @@ No new importable template was created from this continuation. The relevant post
 1. Confirm current official Python data/state documentation before promoting `SE-026` or `PC-054` to a local implementation decision.
 2. Review the private ledger contract against restart, cancellation, duplicate and UNKNOWN-state fixtures before adopting `SE-025` or `PC-055`.
 3. Obtain current official terms before interpreting any PPA, Osmosis, VF, promotion or payment material.
+
+## Later Deep Collection: Engineering Posture
+
+- Treat session/retry wrappers, direct result stores and all platform client code as non-adoptable source material. The Alpha Mining OS adapter is the only place where an approved action could ever be retried, and it must fail closed on uncertainty.
+- Treat claimed daily request limits and client-side stop thresholds as `UNKNOWN` forum experience. Internal budget reservation is only a safety guard; it does not predict or control platform capacity.
+- Add private scope-bound out-of-sample robustness review after authorized results are available. Preserve profile, window and coverage provenance; retain neither result values nor code in public assets.
+- Build Skills, RAG and multi-agent workflows as advisory modules with redacted context, bounded tasks and one-way handoff into deterministic CandidatePlan review.

@@ -61,3 +61,10 @@
 - `PC-053` / `PC-056`: forum AI and batch workflows can expose private inputs or direct platform access. Only redacted plans, bounded queue patterns and deterministic downstream gates are retained.
 - `PC-057` / `PC-058`: fewer operators or a more advanced numerical method does not prove a better signal. Both need a private hypothesis, semantic comparison, data-quality evidence and resource limits.
 - `CPE-011`: one forum report of a Self/Power Pool mismatch is a counterexample to simplistic ordering. It does not provide official metric definitions or a usable threshold.
+
+## KNOW-20260718-008 later deep-collection unknowns
+
+- `CM-018` / `PC-062`: community request-count and reset stories do not establish a current simulation quota, reset time, cancellation accounting or capacity contract. Local stop logic is not proof that an external action stopped.
+- `PC-060`: community session and retry code includes authentication and direct-access paths. Only a controlled adapter with explicit authorization, idempotency and fail-closed recovery is suitable for local design review.
+- `SE-027` / `PC-061`: a private out-of-sample distribution review helps assess robustness but cannot define official OS semantics, a universal threshold or an admission bypass.
+- `PC-063`: multi-agent, Skills and RAG examples can expose raw context or direct execution capability. The public asset retains only role isolation, bounded memory and deterministic handoff requirements.

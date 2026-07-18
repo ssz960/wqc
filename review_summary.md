@@ -65,8 +65,14 @@ Highest-priority human review: `CM-015`, `SE-021`, `SE-022`, `SE-023`, `PC-033`,
 
 # KNOW-20260718-008 deep-collection continuation
 
-The local read-only corpus now contains 861 complete forum bodies against the same four-board catalogue of 6,558 topics. The Consultant Chinese board contributes 192 collected bodies, with 1,358 still catalogued but not yet captured; 13 transient failures remain in the local retry queue. Raw bodies, comments, authors, code, account data and credentials remain local-only.
+The local read-only corpus now contains 887 complete forum bodies against the same four-board catalogue of 6,558 topics. The Consultant Chinese board contributes 218 collected bodies, with 1,332 still catalogued but not yet captured; 20 transient failures remain in the local retry queue. Raw bodies, comments, authors, code, account data and credentials remain local-only.
 
 This continuation adds 16 source-index entries, 2 system-engineering claims (`SE-025`, `SE-026`), 8 Practice Cards (`PC-052` through `PC-059`) and one correlation counterexample row (`CPE-011`). Every new forum item is `FORUM_EXPERIENCE`; no forum anecdote was promoted to an admission, scheduler, reward, quota, correlation-threshold or account-write rule.
 
 Highest-priority human review: `SE-025`, `SE-026`, `PC-052`, `PC-053`, `PC-054`, `PC-055`, `PC-056`, `PC-058`, `PC-059`, and `CPE-011`.
+
+# KNOW-20260718-008 later deep-collection continuation
+
+Nine further source-index entries, one Consultant-mechanism claim (`CM-018`), one system-engineering claim (`SE-027`) and four Practice Cards (`PC-060` through `PC-063`) were distilled from the later high-priority collection. All remain `FORUM_EXPERIENCE`; no direct request code, session logic, identifier, result, expression, account data or quota threshold is published.
+
+Highest-priority human review: `CM-018`, `SE-027`, `PC-060`, `PC-061`, `PC-062`, and `PC-063`.

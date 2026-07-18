@@ -48,3 +48,10 @@ Do not adopt quota, reward, Osmosis, Pyramid, or interface-specific values until
 29. Require a private Python semantic-state contract for every code-backed proposal: field type, history/state, missingness, data-adjustment assumption, output shape and bounded resource estimate. Block ambiguous parity rather than allowing autonomous repair.
 30. Give research assistants only role-based registry metadata and a bounded task budget. They may draft hypotheses and notes, but not receive raw candidate material, invoke an adapter, change a budget or resolve an UNKNOWN state.
 31. Treat numerical transforms and operator simplification as controlled mutations with before/after semantic evidence. Treat VF, payment, PPA and Osmosis discussion as manual-review context only until current official terms are captured.
+
+## KNOW-20260718-008 Later Deep Collection Adoptions
+
+32. Retain a single approved adapter boundary for retry classification and private lifecycle audit. It fails closed for authentication, non-idempotent action and unknown external state; no community session or retry code is imported.
+33. Add an advisory private robustness-review artifact after authorized results exist. It must include scope, window, coverage and aggregate provenance, and cannot reveal results publicly or override hard admission.
+34. Treat any local simulation-budget reservation as an internal safety ceiling, not a statement about platform quota or reset. Official evidence is required before scheduler capacity configuration.
+35. Enforce role-scoped assistant and Skill contracts: redacted metadata in, draft plan or review out, and no direct adapter, budget or account-write capability.

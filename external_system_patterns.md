@@ -57,6 +57,13 @@ Forum and public GitHub sources included direct authentication, endpoint, pollin
 - Numeric transforms and simplification are research mutations. They require a documented economic hypothesis and semantic comparison; no forum result establishes portability or a promotion benefit.
 - Payment, VF, PPA and Osmosis narratives are time- or account-scoped. Treat them as manual-review alerts rather than reward, allocation, scoring or write logic.
 
+## Later Deep Collection Patterns
+
+- Session renewal, direct retry and historical result stores found in community code are non-adoptable. The safe abstraction is a single approved adapter with opaque error classes, idempotency keys, bounded retry and private audit pointers.
+- Out-of-sample analysis is a private robustness-review stage. Scope, window and coverage must travel with every aggregate; a distributional review cannot be treated as an official check or a public result asset.
+- Community reports of request counts, resets and local stop thresholds are counterevidence to hard-coded quota logic. A scheduler may reserve local budget but must label it non-authoritative and fail closed on uncertain external state.
+- Multi-agent and Skill workflows are viable only as redacted, role-scoped advisory modules. Research memory is versioned context, not a platform authority or execution channel.
+
 ## KNOW-20260718-008 High-Signal Batch Patterns
 
 - Local pairwise-return analysis can rank redundant research variants only after an authorized pullback. It must be profile-scoped, versioned and advisory; it cannot stand in for Self, Power Pool or Prod correlation.

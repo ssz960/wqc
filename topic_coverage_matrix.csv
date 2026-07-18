@@ -48,3 +48,7 @@ Python semantic state and data-quality parity,SE-026;PC-054,3,PARTIAL,FORUM_EXPE
 Idempotent research ledger and recovery,SE-025;PC-055,1,PARTIAL,FORUM_EXPERIENCE,Private candidate identity and lifecycle states are useful; source execution logic is excluded.
 Complexity simplification and numerical hypotheses,PC-057;PC-058,3,PARTIAL,FORUM_EXPERIENCE,Simplification needs semantic proof and advanced numerical methods remain hypothesis-only.
 Promotion payment PPA and Osmosis narratives,PC-059,3,GAP,FORUM_EXPERIENCE,No forum narrative establishes durable eligibility reward allocation or write semantics.
+Daily simulation capacity and local budget safety,CM-018;PC-062,2,GAP,FORUM_EXPERIENCE,Forum counts and reset stories remain UNKNOWN; local budget is safety-only and non-authoritative.
+Approved adapter retry and lifecycle boundary,PC-060,2,PARTIAL,FORUM_EXPERIENCE,Central error taxonomy and idempotency are reusable only behind an approved adapter with no copied access logic.
+Private out-of-sample robustness review,SE-027;PC-061,1,PARTIAL,FORUM_EXPERIENCE,Distributional review is advisory with explicit scope and provenance; it does not define an official gate.
+Role-scoped Skills RAG and research memory,PC-063,4,PARTIAL,FORUM_EXPERIENCE,Modular advisory roles require redaction, bounded context and denied adapter access.
