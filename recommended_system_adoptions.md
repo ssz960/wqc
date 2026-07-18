@@ -24,3 +24,12 @@ Do not adopt quota, reward, Osmosis, Pyramid, or interface-specific values until
 14. Reuse cache, freshness, idempotency and bounded-batch patterns only in local collectors and approved adapters. Treat all source authentication and direct request code as prohibited material.
 15. Maintain controlled research experiments as immutable hypothesis plus one mutation plus result reference. The scheduler, budget and admission remain independent of the researcher loop.
 16. Store campaign context, Genius/VF observations and promotion discussion as manually reviewed, time-bounded research metadata. Never turn forum anecdotes into scoring, eligibility or automated submission policy.
+
+## KNOW-20260718-008 continuation workflow adoptions
+
+17. Add an explicit infrastructure branch to Research Memory and result handling: `THROTTLED`, `PENDING`, `TIMEOUT`, `UNAVAILABLE` and `UNKNOWN` must stay distinct from candidate quality and hard-admission outcomes.
+18. Treat capability discovery as a versioned registry-snapshot concern. Only an approved read path may populate scoped field/operator availability; community credential and scraping patterns remain prohibited.
+19. Add optional offline candidate-family analysis after authorized observations are available. Keep family labels and representative choice advisory, auditable and separate from Self/Power Pool/Prod eligibility.
+20. Normalize every expression-like or source-file-like proposal into one CandidatePlan before the hard-admission boundary. Do not allow any input form to create a direct adapter or polling path.
+21. Keep polarity-pair and industry-normalized ideas in the Template Center intake contract as role placeholders only. Require human semantic review, registry validation, correlation prescreen and a private experiment record before use.
+22. Treat PPA tag and promotion anecdotes as write-risk alerts. They must not influence any automated mutation, budget, scoring or submission path until current official semantics are reviewed.

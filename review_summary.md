@@ -46,3 +46,11 @@ This supplement adds 2 Consultant-mechanism claims, 4 system-engineering claims,
 All 12 new sources are `FORUM_EXPERIENCE`. They support safe research-process patterns only: component boundaries, semantic-parity checks, cache/idempotency, controlled experiments and time-scoped campaign metadata. They do not establish admission rules, capacity, quotas, correlation thresholds, promotion criteria, Power Pool eligibility, rewards or execution permissions.
 
 Highest-priority human review: `CM-012`, `CM-013`, `SE-013`, `SE-014`, `SE-015`, `SE-016`, `PC-019`, `PC-020`, `PC-021`, and `PC-022`.
+
+# KNOW-20260718-008 continuation supplement
+
+This continuation expands the local read-only corpus from 634 to 679 complete forum bodies while retaining a four-board catalogue of 6,558 topics. It adds 16 newly collected sanitized source entries, repairs one pre-existing source reference, adds 1 Consultant-mechanism claim (`CM-014`), 4 system-engineering claims (`SE-017` through `SE-020`), 8 Practice Cards (`PC-025` through `PC-032`), 3 correlation-evidence rows and 2 role-only Template Candidates.
+
+All new forum evidence is `FORUM_EXPERIENCE`, all new assets are `PENDING_HUMAN_REVIEW` except the explicit `NON_ADOPTABLE` tag-mutation card, and `manifest.json` remains empty. No raw body, comment, author identity, credential, request detail, Alpha expression, field identity, PnL, submitted pool or account result was published.
+
+Highest-priority human review: `CM-014`, `SE-017`, `SE-018`, `SE-019`, `SE-020`, `PC-025`, `PC-026`, `PC-028`, `PC-030`, and `PC-032`.

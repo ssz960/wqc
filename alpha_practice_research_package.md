@@ -40,3 +40,22 @@ All skeletons use placeholders only and are `PENDING_HUMAN_REVIEW`. They are not
 2. Search the Consultant Chinese forum for PPA/Power Pool July 2026, TOP1000, neutralization, statistical/RAM/crowding, strong-team leaderboard, and template terms.
 3. Deep-distill high-vote Chinese consultant posts on promotion, VF/GM, mining workflow and scripts into Practice Cards.
 4. Design a separate template-library asset contract before storing any real formula or importable template bundle.
+
+## KNOW-20260718-008 continuation
+
+The local, read-only corpus now has 679 full forum bodies against a four-board catalogue of 6,558 topics. This public continuation adds 16 newly collected source-index entries and repairs one pre-existing source reference, plus 1 Consultant-mechanism candidate claim, 4 system-engineering candidate claims, 8 Practice Cards and 2 role-only Template Candidates. Every new forum item remains `FORUM_EXPERIENCE` and `PENDING_HUMAN_REVIEW`.
+
+### Research package additions
+
+1. Low-correlation work should be framed as a controlled data-family hypothesis, not as a promise that operator changes, a field label or a threshold will improve Prod correlation.
+2. Use correlation-family clustering only to reduce redundant local research review. It cannot replace an authorized platform observation or reject a candidate.
+3. Cache capability metadata by authorized profile snapshot and freshness. Forum inventory scripts are evidence of a stale-metadata failure mode, not approval to use credentials or direct calls.
+4. Preserve an infrastructure branch in research memory. Throttled, pending, timeout and UNKNOWN must not silently become negative alpha evidence.
+5. Convert FastExpr and source-file ideas into one normalized candidate contract. Language conversion also needs a private semantic-parity record before any candidate is considered for admission.
+6. Template candidates added in this continuation are placeholders only: `public.polarity_pair.relative_signal` and `public.industry_neutralized.temporal_signal`. They contain role names rather than datafields or real alpha formulas.
+
+### Manual follow-up
+
+1. Obtain current official semantics for Power Pool tag changes before discussing any effect on eligibility, correlation pools or displayed outcomes.
+2. Re-open the listed code-bearing sources only when a human-authorized, read-only adapter review is needed; do not reuse their credential, request, polling or execution paths.
+3. Build a private validation matrix for profile snapshot freshness, error classes, family clustering sensitivity and FastExpr-to-Python semantic parity.

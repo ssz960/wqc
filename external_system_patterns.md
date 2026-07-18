@@ -32,3 +32,18 @@ Forum and public GitHub sources included direct authentication, endpoint, pollin
 - `TOPIC-33089748320791`: explicitly unsupported Self/PP/Prod ordering hypothesis.
 - `TOPIC-32970978828951`: direct collection/storage code; retain only safe architectural abstractions.
 - `TOPIC-39118594803095`: experiment evidence and quality tradeoffs.
+
+## KNOW-20260718-008 continuation patterns
+
+- Research state is not a single pass/fail value. Candidate quality, gate result, throttling, pending work, timeout and missing observation need separate durable states so transient infrastructure does not discard a hypothesis.
+- Capability metadata is profile-scoped and perishable. Only an authorized, versioned snapshot may enter candidate planning; community code that logs in or scrapes inventories is non-adoptable.
+- A local correlation graph can compress a large research batch into families and representatives. It is a review-prioritization stage only, never a substitute for Self, Power Pool or Prod observations.
+- Expression and source-file research inputs should normalize into one immutable candidate contract before admission. Direct REST, polling, submission and credential examples in the source material remain excluded.
+- Semantic polarity and group-normalized study families are stored only as role placeholders. A human must validate the economic pairing, field type, operator availability and profile before a local research plan is created.
+
+## Additional Manual Review Targets
+
+- `TOPIC-41279111112855`: scoped CHN data-family and correlation retrospective; retain as a hypothesis, not a general rule.
+- `TOPIC-35590188390551`: local Power Pool precheck implementation; verify official membership and freshness semantics before any design decision.
+- `TOPIC-29064340617239`: capability discovery script includes credential/direct access material; retain only the snapshot-freshness lesson.
+- `TOPIC-39922788056343`: promotion and tag narrative; do not infer tag-write behavior, eligibility or reward effects.

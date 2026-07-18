@@ -35,3 +35,12 @@
 - `SE-014` / `PC-020`: FastExpr-to-Python equivalence varies with state, history, missing values and profile. No claimed mapping or comparison threshold is a platform contract.
 - `SE-015` / `PC-021`: cache and batching ideas survive sanitization, but source authentication, endpoints, identities and access flow do not.
 - `SE-016` / `PC-024`: controlled mutation is a research discipline, not evidence for any platform check threshold or admission outcome.
+
+## KNOW-20260718-008 continuation unknowns
+
+- `CM-014` / `PC-032`: a forum retrospective links PPA tag edits with later displayed outcomes, but no official causality, eligibility or write-audit contract has been captured. Tag mutation remains non-adoptable.
+- `SE-017` / `PC-029`: forum error labels are useful taxonomy inspiration only. Platform status mapping, retry scope and reconciliation timing need current authorized evidence.
+- `SE-018` / `PC-028`: capability snapshots are necessary for safety, but the approved source, freshness bound and invalidation contract are still local design decisions.
+- `SE-019` / `PC-027`: family clustering is a local research-analysis technique. Its relation to official Self, Power Pool or Prod correlation is UNKNOWN.
+- `PC-025`, `PC-026`, `PC-030`: data-family pivot, local prechecks and conversion-state strategies are scoped practitioner observations. They cannot establish any threshold, submission expectation or source-of-truth correlation value.
+- The new placeholder template candidates are not formulas for import. Their economic roles, operator availability and scope must be independently checked against an approved registry snapshot.
