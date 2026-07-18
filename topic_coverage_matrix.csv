@@ -1,0 +1,13 @@
+topic,primary_claim_ids,source_count,coverage_status,highest_evidence,notes
+Multi Simulation parent-child and capacity,CM-001;CM-002;SE-002;SE-004,3,PARTIAL,OFFICIAL,Capacity and shared settings verified; quota accounting UNKNOWN
+Simulation quotas daily boundary invalid cancellation,CM-002,1,GAP,OFFICIAL,No original rule captured
+Settings catalogue and constraints,CM-006;SE-006,3,PARTIAL,OFFICIAL,Partial catalogue only; exact 18-item request unresolved
+Regular versus SuperAlpha,CM-005;CM-007,3,PARTIAL,OFFICIAL,SuperAlpha constraints captured; full comparison unresolved
+Consultant submissions and correlation,CM-003;CM-004;CM-008,4,COVERED,OFFICIAL,Power Pool remains a separate pool
+Pyramid and point tower,CM-010,0,GAP,INFERENCE,No qualifying source
+Osmosis and rewards,CM-009,1,PARTIAL,FORUM_STRONG,Needs current official Learn evidence
+Read-only result and correlation retrieval,CM-004;SE-001;SE-003,4,PARTIAL,OFFICIAL,UI semantics captured; endpoint contract omitted
+Parent-child polling and batch handling,SE-002;SE-004,3,PARTIAL,OFFICIAL,Generic state-machine pattern only
+429 and error recovery,SE-003;SE-007,2,PARTIAL,FORUM_STRONG,No numeric contract retained
+Dataset field operator synchronization,SE-005;SE-006;SE-009,4,COVERED,LOCAL_EVIDENCE,Use snapshot and compatibility validation
+AI agent RAG research memory scheduler,SE-007;SE-008;SE-010,3,PARTIAL,INFERENCE,RAG is advisory-only; production integration UNKNOWN

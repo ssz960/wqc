@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Sanitized Research Claim",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["claim_id", "category", "title", "conclusion", "evidence_level", "source_type", "source_locator", "url", "author", "date", "excerpt_or_paraphrase", "applicability", "confidence", "verification_status", "alpha_mining_os_impact", "conflicts", "open_questions"],
+  "properties": {
+    "claim_id": {"type": "string"},
+    "category": {"enum": ["consultant_mechanism", "system_engineering"]},
+    "title": {"type": "string"},
+    "conclusion": {"type": "string"},
+    "evidence_level": {"enum": ["OFFICIAL", "OFFICIAL_REPLY", "FORUM_STRONG", "FORUM_EXPERIENCE", "LOCAL_EVIDENCE", "INFERENCE"]},
+    "source_type": {"type": "string"},
+    "source_locator": {"type": "string"},
+    "url": {"type": "string"},
+    "author": {"type": "string"},
+    "date": {"type": "string"},
+    "excerpt_or_paraphrase": {"type": "string"},
+    "applicability": {"type": "object"},
+    "confidence": {"type": "number", "minimum": 0, "maximum": 1},
+    "verification_status": {"enum": ["PENDING_HUMAN_REVIEW", "VERIFIED_SOURCE", "UNKNOWN"]},
+    "alpha_mining_os_impact": {"type": "string"},
+    "conflicts": {"type": "array", "items": {"type": "string"}},
+    "open_questions": {"type": "array", "items": {"type": "string"}}
+  }
+}
