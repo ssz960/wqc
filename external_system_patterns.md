@@ -88,3 +88,19 @@ Forum and public GitHub sources included direct authentication, endpoint, pollin
 - `TOPIC-35581087524503`: direct correlation utility; retain only as an ordering counterexample and credential risk.
 - `TOPIC-40346082255255`: Osmosis narrative; obtain current official rule text before any interpretation.
 - `TOPIC-40962462282007`: scoped check-repair narrative; reproduce only with a private one-mutation experiment and no formula publication.
+
+## KNOW-20260718-008 Chinese Consultant Continuation Patterns
+
+- A local correlation cache may remember private, authorized observations, but it is not a blacklist or an official correlation proxy. Its key must bind correlation kind, profile scope, observed-at time, freshness and provenance; cache hits remain advisory. `TOPIC-41377679573143` supplies a code-bearing cautionary example, not a reusable implementation.
+- A research campaign can keep discovery, core definition, scaling, repair and review-packet work distinct. Stage records and bounded local budgets improve resume and learning behavior, but no stage creates an execution right. `TOPIC-41568235513623` is personal workflow evidence only.
+- A regional check-repair story is an experiment seed, not a transformation catalogue. Preserve one intended mutation, scope and private before/after pointer; an ambiguous diagnosis remains `UNKNOWN`. `TOPIC-41162636720919` includes excluded code and result material.
+- Two-source research can begin with economic roles, expected polarity and a confirmation-or-divergence hypothesis. Those tags improve research briefing but do not prove any correlation outcome or instantiate a formula. `TOPIC-41142979050775` is represented only by a role-only template intake record.
+- Human, AI and deterministic components have different responsibilities: AI proposes bounded hypotheses, deterministic tooling validates approved metadata, and humans own objectives and decisions. `TOPIC-39304762113815` supports this advisory split; all reported thresholds, results and direct execution paths are excluded.
+- Raw-to-summary projection remains a redaction and context-budget pattern, not a platform connector. `TOPIC-40530659645719` adds supporting evidence that verbose result payloads should remain in private artifacts and be disclosed to an LLM only through a bounded, redacted decision view.
+
+## Additional Manual Review Targets
+
+- `TOPIC-40962586503191`: promotion and Value Factor narrative; obtain current official criteria before any mechanism, dashboard, or goal model.
+- `TOPIC-41377679573143`: test advisory-cache precision and freshness only with synthetic or approved private observations.
+- `TOPIC-41162636720919`: require an official check definition and one-mutation local protocol before any scoped experiment.
+- `TOPIC-41142979050775`: review the role-only hypothesis contract before field or operator instantiation.

@@ -88,3 +88,15 @@ All new forum evidence is `FORUM_EXPERIENCE` except `SE-030`, which is explicitl
 The public set excludes complete posts, comments, authors, credentials, cookies, account data, candidate identifiers, expressions, settings, result values, PnL, submitted pools, requests, headers, production addresses, and executable direct-platform code. `manifest.json` remains empty because the repository constitution requires human review before an artifact becomes manifest-listed.
 
 Highest-priority human review: `CM-019`, `SE-028`, `SE-029`, `SE-030`, `SE-032`, `PC-068`, `PC-069`, `PC-070`, `PC-071`, `PC-077`, and `CPE-012`.
+
+# KNOW-20260718-008 Chinese Consultant continuation
+
+This continuation expands the local read-only corpus from 957 to 1,057 complete forum bodies in the same 6,558-topic four-board catalogue. Board coverage is Kunqi 573, Africa 15, Global 81, and Consultant Chinese 388. The 100 added bodies were collected from logged-in Chrome through independent short-lived read-only page visits; failed pages remain only in the local retry queue.
+
+Eight high-signal Chinese Consultant sources were distilled. The public set adds 1 Consultant-mechanism claim (`CM-020`), 2 system-engineering claims (`SE-033`, `SE-034`), 4 Practice Cards (`PC-078` through `PC-081`), 1 correlation-evidence limitation row (`CPE-013`), and 1 role-only Template Candidate (`public.information_role.polarity_cell_hypothesis`). It also adds source-index evidence for raw-to-summary context projection, relationship-role-topology taxonomy, and the human-AI-deterministic responsibility split.
+
+All eight sources are `FORUM_EXPERIENCE`. No source establishes a promotion, Value Factor, Master/GM/Expert, operator-count, research-group, Python-feature, correlation threshold, capacity, or real-execution rule. The correlation cache remains an advisory hypothesis; the staged campaign ends in an approval packet; and the role-only template does not contain an Alpha formula.
+
+The current public set contains 54 claims, 81 Practice Cards, 137 source-index rows, 13 correlation-pipeline evidence rows, and 10 role-only or placeholder template candidates. All new assets are `PENDING_HUMAN_REVIEW` or `HYPOTHESIS_ONLY`; `manifest.json` remains empty under the repository constitution.
+
+Highest-priority human review: `CM-020`, `SE-033`, `SE-034`, `PC-078`, `PC-079`, `PC-080`, `PC-081`, `CPE-013`, and `public.information_role.polarity_cell_hypothesis`.

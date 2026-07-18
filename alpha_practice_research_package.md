@@ -124,3 +124,27 @@ No new importable template was created from this continuation. The relevant post
 ### Safety boundary
 
 Community command-line and wrapper projects demonstrate useful state categories and artifact boundaries, but direct authentication, retrieval, simulation, metadata mutation, correlation, and submission implementations are prohibited inputs. All Osmosis composition material remains manual research context until current official terms are captured.
+
+## Chinese Consultant Continuation: Researcher Notes
+
+### Material signal
+
+- Run mining as a private campaign with distinct `PROBE`, `CORE`, `SCALE`, `POLISH`, and `APPROVAL_PACKET` states. Each stage should preserve a small redacted decision record and a next question. The last state is a review artifact, not a real platform action.
+- Treat an overlap or prior-observation cache as advisory research memory only. Keep its scope and freshness explicit, and validate its predictive value on a private held-out sample before using it to prioritize attention.
+- Start two-source idea generation with an economic role, expected polarity, and a confirmation-or-divergence hypothesis. A role label is not proof of coverage, quality, or low correlation.
+- A scoped check failure should produce one reversible experiment with private provenance. Do not convert a regional anecdote into an operator, settings, or repair policy.
+- AI can generate bounded hypotheses and explanations; deterministic tooling can validate approved metadata; humans retain research objectives and every decision with external effect.
+
+### Template-family posture
+
+`public.information_role.polarity_cell_hypothesis` is a role-only research intake record. It contains no real field, expression, settings, metric, result, or executable code. It requires a current private registry snapshot, human economic review, scope and coverage validation, and a separate correlation experiment before any CandidatePlan is considered.
+
+### Promotion and Value Factor posture
+
+The new promotion source is a personal retrospective, not an official rule. Do not optimize templates, queues, candidate scores, or research plans toward Master, GM, Expert, Value Factor, tower, research-group, operator-count, or Python-feature claims without current official evidence.
+
+### Manual follow-up
+
+1. Obtain current official promotion, Value Factor, role, research-group, and feature documentation before using any progress mechanism in a dashboard or research objective.
+2. Design a private cache-validation fixture that measures scope-matched precision, recall, freshness decay, and Self/Power Pool/Prod separation without exposing expressions or result values.
+3. Review `PC-079` and `SE-033` against the existing CandidatePlan, scheduler, and audit contracts; preserve the approval-packet boundary.

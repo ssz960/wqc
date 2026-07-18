@@ -79,3 +79,12 @@
 - `SE-032` / `PC-071`: direct WQ command/control projects conflict with the project authority boundary. They cannot be vendored, translated, called, or used to derive a bypass.
 - `CPE-012` / `PC-069`: one local Self/PPAC-style report is counterevidence to a monotonic funnel only. It does not define any official metric, pool membership, direction, threshold, or screening rule.
 - `PC-074` / `PC-075` / `PC-076`: scoped optimization, surrogate-ranking, and AI-workflow narratives remain hypotheses. Personal formulas, scores, capacities, quotas, and direct action paths are excluded.
+
+## KNOW-20260718-008 Chinese Consultant continuation unknowns
+
+- `CM-020`: a high Combine anecdote alongside an Expert designation does not identify the current Master, GM, Expert, Value Factor, operator-count, research-group, or Python-feature rule. Every such mechanism remains `UNKNOWN` pending official evidence.
+- `SE-034` / `PC-078` / `CPE-013`: a similarity-style cache is neither Self, Power Pool, nor Prod correlation. Its predictive value, scope, expiry, and safe fingerprint are unverified; it cannot reject a candidate or trigger a request.
+- `SE-033` / `PC-079`: stage-separated mining is a private workflow proposal. Its final review packet must not be interpreted as a real simulation, submit, tag, or account action.
+- `PC-080`: a MEA-specific multi-change repair narrative cannot establish a general transform, settings, or check-failure remedy. Any experiment needs current official terminology and one reversible mutation.
+- `PC-081` and `public.information_role.polarity_cell_hypothesis`: economic roles and polarity help state a research hypothesis, but they do not prove low correlation, coverage, Alpha quality, or field/operator compatibility.
+- `TOPIC-40530659645719`, `TOPIC-40433238987159`, and `TOPIC-39304762113815` contain workflow, prompt, formula, metric, or execution details. Only the bounded-summary, role-taxonomy, and human-AI-code responsibility patterns are retained; direct access paths and numeric guidance are excluded.

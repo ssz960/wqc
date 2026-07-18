@@ -66,3 +66,12 @@ Do not adopt quota, reward, Osmosis, Pyramid, or interface-specific values until
 41. Keep `PC-075` as an optional offline experiment-prioritization hypothesis. A surrogate can rank a finite private study queue but cannot allocate real budget, execute a call, or bypass hard admission.
 
 `CM-019` and `PC-077` do not authorize Osmosis modelling, point allocation, reward inference, or account action. Current official terms and an explicit human-approved workflow are required first.
+
+## KNOW-20260718-008 Chinese Consultant Continuation Adoptions
+
+42. Adopt `SE-033` and `PC-079` as a private campaign discipline: `PROBE -> CORE -> SCALE -> POLISH -> APPROVAL_PACKET`, with immutable stage artifacts, bounded local budgets, and no direct action at any stage.
+43. Adopt `SE-034` and `PC-078` only as an advisory cache contract: opaque fingerprint, correlation kind, profile scope, observed-at time, freshness, provenance, and result state. A cache hit may prioritize human review but cannot reject, schedule, execute, or stand in for Self, Power Pool, or Prod evidence.
+44. Keep `PC-080` as a one-mutation experiment discipline. Source-specific check-repair stories cannot configure Region-wide transforms, settings, or operational scripts.
+45. Keep `PC-081` and `public.information_role.polarity_cell_hypothesis` in Template Center intake as non-executable role metadata. Human economic review, registry/type/scope checks, and private correlation validation are required before any CandidatePlan.
+
+`CM-020` does not authorize a Master, GM, Expert, Value Factor, tower, or research-group scoring model. Current official promotion and feature terms remain required.
