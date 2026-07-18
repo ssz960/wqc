@@ -52,3 +52,12 @@
 - `SE-022` / `PC-035`: a field-similarity value is a scoped hypothesis with coverage and freshness risk. It is unrelated to official Self, Power Pool or Prod correlation unless separately validated.
 - `SE-023` / `PC-037` / `PC-038`: forum MCP and LLM examples often combine private inputs with direct access. Only the redacted-plan, advisory pattern is retained; real calls and descriptions need a human-reviewed boundary.
 - `PC-040` / `PC-041` / `PC-042`: Power Pool portfolio anecdotes, GM-complexity narratives and source-specific earnings templates cannot establish a target count, result threshold, promotion rule or general template performance claim.
+
+## KNOW-20260718-008 deep-collection continuation unknowns
+
+- `SE-025` / `PC-055`: a local candidate ledger helps with idempotency and recovery, but it does not establish platform-side identity, result status or permission to retry. Canonicalization and retention remain private design decisions.
+- `SE-026` / `PC-054`: Python semantics described in community posts may vary by current platform implementation and profile. History, state, numeric representation, missingness, data adjustment and resource behaviour require official confirmation plus private fixtures.
+- `PC-052` / `PC-059`: candidate quality, VF, promotion, payment, PPA and Osmosis stories are personal or time-scoped. They cannot create a score threshold, submission rule, reward mechanism, allocation rule or account-write permission.
+- `PC-053` / `PC-056`: forum AI and batch workflows can expose private inputs or direct platform access. Only redacted plans, bounded queue patterns and deterministic downstream gates are retained.
+- `PC-057` / `PC-058`: fewer operators or a more advanced numerical method does not prove a better signal. Both need a private hypothesis, semantic comparison, data-quality evidence and resource limits.
+- `CPE-011`: one forum report of a Self/Power Pool mismatch is a counterexample to simplistic ordering. It does not provide official metric definitions or a usable threshold.

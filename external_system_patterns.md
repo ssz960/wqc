@@ -48,6 +48,15 @@ Forum and public GitHub sources included direct authentication, endpoint, pollin
 - `TOPIC-29064340617239`: capability discovery script includes credential/direct access material; retain only the snapshot-freshness lesson.
 - `TOPIC-39922788056343`: promotion and tag narrative; do not infer tag-write behavior, eligibility or reward effects.
 
+## KNOW-20260718-008 Deep Collection Patterns
+
+- Candidate-quality discussion is most useful as an advisory review schema: hypothesis, data-family role, scope, simplicity concern and a separately named correlation hypothesis. It cannot turn a personal score, turnover band or Value-Factor story into admission policy.
+- Python research needs a private semantic-state contract. History, state, missingness, numeric representation, data adjustment and resource cost are individually testable failure dimensions; none is proven by an operator-name translation.
+- A private ledger can deduplicate research attempts and retain lifecycle states, but must remain downstream of hard admission and cannot call an adapter. Canonicalization, audit references and `UNKNOWN` recovery are more durable than a copied access script.
+- Batch generation and AI assistance are safe only when they produce bounded, redacted CandidatePlans. Generation, static validation, admission, scheduling and reconciliation must stay separate.
+- Numeric transforms and simplification are research mutations. They require a documented economic hypothesis and semantic comparison; no forum result establishes portability or a promotion benefit.
+- Payment, VF, PPA and Osmosis narratives are time- or account-scoped. Treat them as manual-review alerts rather than reward, allocation, scoring or write logic.
+
 ## KNOW-20260718-008 High-Signal Batch Patterns
 
 - Local pairwise-return analysis can rank redundant research variants only after an authorized pullback. It must be profile-scoped, versioned and advisory; it cannot stand in for Self, Power Pool or Prod correlation.

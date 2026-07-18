@@ -62,3 +62,11 @@ The local read-only corpus now contains 731 complete forum bodies across the sam
 All new source evidence is `FORUM_EXPERIENCE`. The public assets retain only generic research-process conclusions: advisory local diversity analysis, scope-bound field caches, static dependency review, sanitized AI assistance and account-write risk classification. `PC-034` and `PC-039` are explicitly `NON_ADOPTABLE`; the rest remain `PENDING_HUMAN_REVIEW`. No template formula, source field, full post, comment, author identity, credential, request detail, PnL, submitted pool, account metric or executable platform code was published.
 
 Highest-priority human review: `CM-015`, `SE-021`, `SE-022`, `SE-023`, `PC-033`, `PC-034`, `PC-035`, `PC-037`, `PC-039`, and `PC-042`.
+
+# KNOW-20260718-008 deep-collection continuation
+
+The local read-only corpus now contains 861 complete forum bodies against the same four-board catalogue of 6,558 topics. The Consultant Chinese board contributes 192 collected bodies, with 1,358 still catalogued but not yet captured; 13 transient failures remain in the local retry queue. Raw bodies, comments, authors, code, account data and credentials remain local-only.
+
+This continuation adds 16 source-index entries, 2 system-engineering claims (`SE-025`, `SE-026`), 8 Practice Cards (`PC-052` through `PC-059`) and one correlation counterexample row (`CPE-011`). Every new forum item is `FORUM_EXPERIENCE`; no forum anecdote was promoted to an admission, scheduler, reward, quota, correlation-threshold or account-write rule.
+
+Highest-priority human review: `SE-025`, `SE-026`, `PC-052`, `PC-053`, `PC-054`, `PC-055`, `PC-056`, `PC-058`, `PC-059`, and `CPE-011`.

@@ -79,3 +79,22 @@ No new importable template was created from this batch. The template distiller w
 - A template workflow crosses the advisory boundary and gets an execution capability.
 - External AI receives private candidate material or returns unsupported compliance claims.
 - An account-write heuristic is mistaken for an official Osmosis or reward mechanism.
+
+## Deep Collection: Researcher Notes
+
+### Material signal
+
+- Start candidate review with an economic mechanism and role-based data-family hypothesis, then record portfolio-diversity and correlation as separate, testable questions. Personal metrics and Value-Factor narratives are not rules.
+- For code-backed research, make history, state, missingness, numeric representation, data adjustment and resource budget explicit before any candidate is considered. A translation or complex transformation is a hypothesis, not a result.
+- Use a private ledger to deduplicate candidate work and preserve `PENDING`, `ERROR`, `UNKNOWN` and recovered states. The ledger cannot invoke an adapter or replace an audit trail.
+- Keep AI and batch generation upstream: redacted metadata in, bounded CandidatePlans out. Static validation, admission, scheduling and result reconciliation remain deterministic, separately owned stages.
+
+### Template-family posture
+
+No new importable template was created from this continuation. The relevant posts contain private fields, formulas, code or results, so the public asset retains only research-method tags: event-expectation normalization, liquidity-aware prediction, stateful time-series and numerical-transform hypotheses. A reviewer must pair any future template with current registry facts and a private semantic validation record.
+
+### Manual follow-up
+
+1. Confirm current official Python data/state documentation before promoting `SE-026` or `PC-054` to a local implementation decision.
+2. Review the private ledger contract against restart, cancellation, duplicate and UNKNOWN-state fixtures before adopting `SE-025` or `PC-055`.
+3. Obtain current official terms before interpreting any PPA, Osmosis, VF, promotion or payment material.

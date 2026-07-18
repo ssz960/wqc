@@ -41,3 +41,10 @@ Do not adopt quota, reward, Osmosis, Pyramid, or interface-specific values until
 25. Give LLM and MCP workers a redacted-plan contract: role placeholders and approved metadata in; draft note or description out; no credentials, raw expression, account result, budget or adapter capability.
 26. Classify all user/account write examples, including Osmosis allocation, as non-adoptable unless a separate current official evidence package and explicit human-approved workflow exist.
 27. Treat dependency counts and PPA portfolio narratives as research-review metadata only; they cannot become Genius, Value-Factor, promotion or admission targets.
+
+## KNOW-20260718-008 Deep Collection Adoptions
+
+28. Add a private `ResearchLedgerRecord` before scheduler entry: canonical candidate fingerprint, profile hash, source reference, lifecycle state and audit pointer. It must not contain public raw expressions or create an execution path.
+29. Require a private Python semantic-state contract for every code-backed proposal: field type, history/state, missingness, data-adjustment assumption, output shape and bounded resource estimate. Block ambiguous parity rather than allowing autonomous repair.
+30. Give research assistants only role-based registry metadata and a bounded task budget. They may draft hypotheses and notes, but not receive raw candidate material, invoke an adapter, change a budget or resolve an UNKNOWN state.
+31. Treat numerical transforms and operator simplification as controlled mutations with before/after semantic evidence. Treat VF, payment, PPA and Osmosis discussion as manual-review context only until current official terms are captured.

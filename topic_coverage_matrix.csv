@@ -42,3 +42,9 @@ Field-family similarity and earnings template exploration,SE-022;PC-035;PC-042,2
 LLM MCP template and description safety boundary,SE-023;PC-037;PC-038,4,PARTIAL,FORUM_EXPERIENCE,Assistants remain advisory and receive only sanitized plans and approved metadata.
 Osmosis allocation and rewards,CM-009;CM-015;PC-039,2,GAP,FORUM_STRONG,No official allocation or reward rule captured; account writes are non-adoptable.
 Combined Power Pool performance narratives,PC-040,1,PARTIAL,FORUM_EXPERIENCE,Personal portfolio observations are hypothesis prompts not policy or account-scoring inputs.
+Candidate quality and portfolio-context review,PC-052,2,PARTIAL,FORUM_EXPERIENCE,Mechanism diversity and correlation language are advisory only; no score or selection rule is adopted.
+AI research assistant boundary,PC-053;PC-056,4,PARTIAL,FORUM_EXPERIENCE,Assistants receive redacted role metadata only and cannot own execution state or budget.
+Python semantic state and data-quality parity,SE-026;PC-054,3,PARTIAL,FORUM_EXPERIENCE,History state missingness types and resources need official confirmation plus private fixtures.
+Idempotent research ledger and recovery,SE-025;PC-055,1,PARTIAL,FORUM_EXPERIENCE,Private candidate identity and lifecycle states are useful; source execution logic is excluded.
+Complexity simplification and numerical hypotheses,PC-057;PC-058,3,PARTIAL,FORUM_EXPERIENCE,Simplification needs semantic proof and advanced numerical methods remain hypothesis-only.
+Promotion payment PPA and Osmosis narratives,PC-059,3,GAP,FORUM_EXPERIENCE,No forum narrative establishes durable eligibility reward allocation or write semantics.
