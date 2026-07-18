@@ -18,3 +18,4 @@ Multi parent child and result materialization,PC-006;PC-007;PC-008,4,PARTIAL,FOR
 Correlation reduction experiments,PC-009,2,PARTIAL,FORUM_EXPERIENCE,Scoped practice observations; formulas and metrics excluded
 Multi capacity settings and recovery,CM-011;SE-011;PC-011,3,PARTIAL,OFFICIAL,Four shared fields official; Universe and interruption semantics remain UNKNOWN
 Correlation pending and throttle scope,CPE-007;PC-002,1,PARTIAL,FORUM_STRONG,Separate HTTP throttle from backend pending; no numeric policy adopted
+AI template and dataset exploration,SE-012;PC-012,2,PARTIAL,FORUM_STRONG,Semantic field substitution is advisory only; template storage contract remains unresolved

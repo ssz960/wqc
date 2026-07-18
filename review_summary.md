@@ -26,3 +26,7 @@ Manual review pages: `33601626915351`, `32223192365207`, `33089748320791`, `3297
 Two new sources were added: one official settings document and one forum interruption/recovery report. The official Multi document continues to support a maximum of eight simultaneous parents and ten sequential children per parent, with Region, Delay, Language and Instrument Type common within a parent. Its shorter Region/Delay-only sentence creates a documentation ambiguity; Universe mixing remains `UNKNOWN`.
 
 The interruption report is `FORUM_EXPERIENCE`: local client exit may not release a platform slot. The only reusable design is UNKNOWN-on-interruption followed by authorized reconciliation; direct cancellation code is non-adoptable. No Single/Multi quota sharing, quota reset, invalid/cancelled accounting, or numeric rate-limit configuration was promoted to a system rule.
+
+# KNOW-20260718-005 alpha-practice supplement
+
+This supplement adds two high-signal forum sources on AI-assisted template exploration and template/dataset search-space reduction. The public knowledge asset retains only the workflow guardrails: start from registry-backed fields, treat semantic substitution as a hypothesis, and validate field type, operator availability, settings and correlation before creating a research plan. Raw formulas are not published here because `wqa` is currently a platform-registry repository, not an approved template-library asset contract.
