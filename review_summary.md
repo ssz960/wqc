@@ -20,3 +20,9 @@ Evidence counts in the supplement: 3 `FORUM_STRONG`, 6 `FORUM_EXPERIENCE`, 1 `IN
 `Self < PP < Prod` and PP-first screening remain a single-source, explicitly unsupported hypothesis. The matrix has 1 supporting source and 2 counterexample/context sources. Any threshold is pending local validation and cannot reject, submit, or mutate a candidate.
 
 Manual review pages: `33601626915351`, `32223192365207`, `33089748320791`, `32970978828951`, and `39118594803095`.
+
+# KNOW-20260718-004 mainline supplement
+
+Two new sources were added: one official settings document and one forum interruption/recovery report. The official Multi document continues to support a maximum of eight simultaneous parents and ten sequential children per parent, with Region, Delay, Language and Instrument Type common within a parent. Its shorter Region/Delay-only sentence creates a documentation ambiguity; Universe mixing remains `UNKNOWN`.
+
+The interruption report is `FORUM_EXPERIENCE`: local client exit may not release a platform slot. The only reusable design is UNKNOWN-on-interruption followed by authorized reconciliation; direct cancellation code is non-adoptable. No Single/Multi quota sharing, quota reset, invalid/cancelled accounting, or numeric rate-limit configuration was promoted to a system rule.
