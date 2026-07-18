@@ -10,3 +10,13 @@ This is a sanitized, source-indexed candidate knowledge set for human review. It
 The claims remain `PENDING_HUMAN_REVIEW`. Per the wqc constitution, `manifest.json` deliberately retains no entries until a human reviewer approves publication.
 
 Primary review targets: `CM-001`, `CM-003`, `CM-004`, `CM-005`, `CM-008`, `CM-009`, `SE-002`, `SE-003`, `SE-007`, `SE-009`.
+
+# KNOW-20260718-003 correlation practice supplement
+
+This supplement adds 10 sanitized Practice Cards, a six-row layered-screening evidence matrix, and a non-adoptable external-system pattern review. It relies on 11 sources for this collection: 9 forum sources and 2 public-code sources; six sources contain code but no code, credentials, endpoints, headers, Alpha expressions, submitted pools, or performance data are retained.
+
+Evidence counts in the supplement: 3 `FORUM_STRONG`, 6 `FORUM_EXPERIENCE`, 1 `INFERENCE`; 0 `OFFICIAL`, 0 `OFFICIAL_REPLY`, and 0 `LOCAL_EVIDENCE`.
+
+`Self < PP < Prod` and PP-first screening remain a single-source, explicitly unsupported hypothesis. The matrix has 1 supporting source and 2 counterexample/context sources. Any threshold is pending local validation and cannot reject, submit, or mutate a candidate.
+
+Manual review pages: `33601626915351`, `32223192365207`, `33089748320791`, `32970978828951`, and `39118594803095`.
