@@ -30,3 +30,11 @@ The interruption report is `FORUM_EXPERIENCE`: local client exit may not release
 # KNOW-20260718-005 alpha-practice supplement
 
 This supplement adds two high-signal forum sources on AI-assisted template exploration and template/dataset search-space reduction. The public knowledge asset retains only the workflow guardrails: start from registry-backed fields, treat semantic substitution as a hypothesis, and validate field type, operator availability, settings and correlation before creating a research plan. Raw formulas are not published here because `wqa` is currently a platform-registry repository, not an approved template-library asset contract.
+
+# KNOW-20260718-006 alpha-practice expansion
+
+This supplement broadens the sanitized Alpha-practice corpus beyond Consultant mechanics. It adds 11 source-index rows, 6 Practice Cards (`PC-013` through `PC-018`), 5 placeholder Template Candidates, 5 Template Evidence rows, and `alpha_practice_research_package.md`.
+
+The PPA/Power Pool July 2026 source `TOPIC-41658367030039` is retained only as screenshot-visible evidence and is marked for manual logged-in follow-up. No raw forum body, comments, author profile, formula, Alpha expression, result, account data, endpoint, cookie, token, request header, submitted pool or PnL is published.
+
+Highest-value review targets: `PC-013`, `PC-014`, `PC-015`, `PC-016`, `PC-017`, `PC-018`, `public.ppa.neutralized.simple_signal`, `public.ppa.low_turnover.decay_signal`, `public.dataset.score_delta.group_rank`, and `public.risk.factor_neutralized_signal`.

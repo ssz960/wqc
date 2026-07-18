@@ -19,3 +19,10 @@
 1. Recheck `CM-003`, `CM-004` and `CM-008` against current official platform wording.
 2. Obtain original official evidence for `CM-002`, `CM-006`, `CM-009` and `CM-010`.
 3. Approve or reject `SE-002`, `SE-003` and `SE-007` as reusable engineering patterns only.
+
+## KNOW-20260718-006 unknowns
+
+- `TOPIC-41658367030039`: only screenshot-visible PPA content is captured. Full text and 26 comments require logged-in manual capture or a fresh forum JSON export.
+- The current PPA theme wording, eligible strategy labels, auxiliary-field constraints and comment-level practitioner examples are not verified enough for automation.
+- Real template formulas remain excluded. A dedicated template-library asset contract is still required before any importable formula bundle can be published.
+- Forum promotion, reward, VF, GM and payout anecdotes remain non-policy unless matched to current official Genius or payment documentation.
