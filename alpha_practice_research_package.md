@@ -59,3 +59,23 @@ The local, read-only corpus now has 679 full forum bodies against a four-board c
 1. Obtain current official semantics for Power Pool tag changes before discussing any effect on eligibility, correlation pools or displayed outcomes.
 2. Re-open the listed code-bearing sources only when a human-authorized, read-only adapter review is needed; do not reuse their credential, request, polling or execution paths.
 3. Build a private validation matrix for profile snapshot freshness, error classes, family clustering sensitivity and FastExpr-to-Python semantic parity.
+
+## High-Signal Batch: Researcher Notes
+
+### Material signal
+
+- Use local batch-diversity analysis to identify redundant research variants only after authorized data is available. Preserve every candidate and treat family labels as advisory.
+- Generate new field-family hypotheses with scope-bound similarity and coverage metadata. A similar field is not proof of an equivalent signal or lower correlation.
+- Treat earnings-template material as a role-only exploration family. Validate type, scope, coverage and economic rationale before a private instantiation.
+- Use an LLM to draft a concise researcher note from a sanitized CandidatePlan, never from account data or a complete private expression.
+
+### Template-family posture
+
+No new importable template was created from this batch. The template distiller was run only on a sanitized note and found zero direct-import candidates. This is intentional: source formulas, field identifiers, results and execution code remain local-only pending human review and a separate template-library approval.
+
+### Expected failure modes
+
+- Local similarity or dependency counts become a proxy for official correlation or promotion rules.
+- A template workflow crosses the advisory boundary and gets an execution capability.
+- External AI receives private candidate material or returns unsupported compliance claims.
+- An account-write heuristic is mistaken for an official Osmosis or reward mechanism.

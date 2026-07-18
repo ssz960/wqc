@@ -47,3 +47,11 @@ Forum and public GitHub sources included direct authentication, endpoint, pollin
 - `TOPIC-35590188390551`: local Power Pool precheck implementation; verify official membership and freshness semantics before any design decision.
 - `TOPIC-29064340617239`: capability discovery script includes credential/direct access material; retain only the snapshot-freshness lesson.
 - `TOPIC-39922788056343`: promotion and tag narrative; do not infer tag-write behavior, eligibility or reward effects.
+
+## KNOW-20260718-008 High-Signal Batch Patterns
+
+- Local pairwise-return analysis can rank redundant research variants only after an authorized pullback. It must be profile-scoped, versioned and advisory; it cannot stand in for Self, Power Pool or Prod correlation.
+- Field-family similarity requires a cache key covering scope, field identity, source version, coverage and observed-at time. It proposes a research branch, not a novelty verdict.
+- Static parsing can create a private dependency manifest for CandidatePlan review. Registry validation and semantic-parity review remain independent gates.
+- MCP and LLM helpers may turn sanitized metadata into research notes or draft descriptions. They do not receive private expressions, credentials, result data or platform authority.
+- Account-write examples such as Osmosis allocation are retained only as non-adoptable risk evidence.

@@ -33,3 +33,11 @@ Do not adopt quota, reward, Osmosis, Pyramid, or interface-specific values until
 20. Normalize every expression-like or source-file-like proposal into one CandidatePlan before the hard-admission boundary. Do not allow any input form to create a direct adapter or polling path.
 21. Keep polarity-pair and industry-normalized ideas in the Template Center intake contract as role placeholders only. Require human semantic review, registry validation, correlation prescreen and a private experiment record before use.
 22. Treat PPA tag and promotion anecdotes as write-risk alerts. They must not influence any automated mutation, budget, scoring or submission path until current official semantics are reviewed.
+
+## KNOW-20260718-008 High-Signal Batch Adoptions
+
+23. Add a private, non-executing dependency manifest to CandidatePlan review. It must be resolved against the approved registry snapshot and fail closed on ambiguity.
+24. Use profile-scoped cache keys and freshness labels for any approved offline field-family or candidate-family analysis. Keep all similarity outputs advisory.
+25. Give LLM and MCP workers a redacted-plan contract: role placeholders and approved metadata in; draft note or description out; no credentials, raw expression, account result, budget or adapter capability.
+26. Classify all user/account write examples, including Osmosis allocation, as non-adoptable unless a separate current official evidence package and explicit human-approved workflow exist.
+27. Treat dependency counts and PPA portfolio narratives as research-review metadata only; they cannot become Genius, Value-Factor, promotion or admission targets.

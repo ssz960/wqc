@@ -44,3 +44,11 @@
 - `SE-019` / `PC-027`: family clustering is a local research-analysis technique. Its relation to official Self, Power Pool or Prod correlation is UNKNOWN.
 - `PC-025`, `PC-026`, `PC-030`: data-family pivot, local prechecks and conversion-state strategies are scoped practitioner observations. They cannot establish any threshold, submission expectation or source-of-truth correlation value.
 - The new placeholder template candidates are not formulas for import. Their economic roles, operator availability and scope must be independently checked against an approved registry snapshot.
+
+## KNOW-20260718-008 high-signal batch unknowns
+
+- `CM-015` / `PC-039`: a community Osmosis allocation heuristic is not a rule source. Current allocation, timing, lock and reward semantics remain UNKNOWN, and any account write is non-adoptable.
+- `SE-021` / `PC-036`: static dependency extraction is incomplete by design. It cannot establish syntax, field type, scope compatibility, semantic parity or execution eligibility.
+- `SE-022` / `PC-035`: a field-similarity value is a scoped hypothesis with coverage and freshness risk. It is unrelated to official Self, Power Pool or Prod correlation unless separately validated.
+- `SE-023` / `PC-037` / `PC-038`: forum MCP and LLM examples often combine private inputs with direct access. Only the redacted-plan, advisory pattern is retained; real calls and descriptions need a human-reviewed boundary.
+- `PC-040` / `PC-041` / `PC-042`: Power Pool portfolio anecdotes, GM-complexity narratives and source-specific earnings templates cannot establish a target count, result threshold, promotion rule or general template performance claim.

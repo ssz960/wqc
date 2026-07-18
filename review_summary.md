@@ -54,3 +54,11 @@ This continuation expands the local read-only corpus from 634 to 679 complete fo
 All new forum evidence is `FORUM_EXPERIENCE`, all new assets are `PENDING_HUMAN_REVIEW` except the explicit `NON_ADOPTABLE` tag-mutation card, and `manifest.json` remains empty. No raw body, comment, author identity, credential, request detail, Alpha expression, field identity, PnL, submitted pool or account result was published.
 
 Highest-priority human review: `CM-014`, `SE-017`, `SE-018`, `SE-019`, `SE-020`, `PC-025`, `PC-026`, `PC-028`, `PC-030`, and `PC-032`.
+
+# KNOW-20260718-008 high-signal batch supplement
+
+The local read-only corpus now contains 731 complete forum bodies across the same 6,558-topic four-board catalogue. This supplement adds 14 source-index entries, one Consultant-mechanism claim (`CM-015`), three system-engineering claims (`SE-021` through `SE-023`), and ten Practice Cards (`PC-033` through `PC-042`). The remaining failed pages are retained only in the local isolated-retry queue.
+
+All new source evidence is `FORUM_EXPERIENCE`. The public assets retain only generic research-process conclusions: advisory local diversity analysis, scope-bound field caches, static dependency review, sanitized AI assistance and account-write risk classification. `PC-034` and `PC-039` are explicitly `NON_ADOPTABLE`; the rest remain `PENDING_HUMAN_REVIEW`. No template formula, source field, full post, comment, author identity, credential, request detail, PnL, submitted pool, account metric or executable platform code was published.
+
+Highest-priority human review: `CM-015`, `SE-021`, `SE-022`, `SE-023`, `PC-033`, `PC-034`, `PC-035`, `PC-037`, `PC-039`, and `PC-042`.

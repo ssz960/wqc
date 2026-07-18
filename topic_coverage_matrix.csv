@@ -36,3 +36,9 @@ Capability snapshot freshness,SE-018;PC-028,2,PARTIAL,FORUM_EXPERIENCE,Use an au
 Correlation family diversity triage,SE-019;PC-027;CPE-008,1,PARTIAL,FORUM_EXPERIENCE,Offline de-duplication only; no PnL or threshold published.
 Normalized multi-input research intake,SE-020;PC-031,1,PARTIAL,FORUM_EXPERIENCE,Expression and source inputs must converge before hard admission.
 Low-correlation hypothesis and placeholder families,PC-025;PC-026;PC-030;public.polarity_pair.relative_signal;public.industry_neutralized.temporal_signal,5,PARTIAL,FORUM_EXPERIENCE,All formulas reduced to role placeholders; source claims require local validation.
+Batch-local correlation diversity triage,SE-019;PC-033,2,PARTIAL,FORUM_EXPERIENCE,Advisory local family labels only; no Self PP or Prod rule follows.
+Static dependency inventory and complexity review,SE-021;PC-036;PC-041,3,PARTIAL,FORUM_EXPERIENCE,Parser output and field or operator counts need registry and semantic review.
+Field-family similarity and earnings template exploration,SE-022;PC-035;PC-042,2,PARTIAL,FORUM_EXPERIENCE,Scope-bound novelty hypotheses only; type coverage and source freshness need local validation.
+LLM MCP template and description safety boundary,SE-023;PC-037;PC-038,4,PARTIAL,FORUM_EXPERIENCE,Assistants remain advisory and receive only sanitized plans and approved metadata.
+Osmosis allocation and rewards,CM-009;CM-015;PC-039,2,GAP,FORUM_STRONG,No official allocation or reward rule captured; account writes are non-adoptable.
+Combined Power Pool performance narratives,PC-040,1,PARTIAL,FORUM_EXPERIENCE,Personal portfolio observations are hypothesis prompts not policy or account-scoring inputs.
