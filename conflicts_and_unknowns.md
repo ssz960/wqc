@@ -26,3 +26,12 @@
 - The current PPA theme wording, eligible strategy labels, auxiliary-field constraints and comment-level practitioner examples are not verified enough for automation.
 - Real template formulas remain excluded. A dedicated template-library asset contract is still required before any importable formula bundle can be published.
 - Forum promotion, reward, VF, GM and payout anecdotes remain non-policy unless matched to current official Genius or payment documentation.
+
+## KNOW-20260718-008 conflicts and unknowns
+
+- `CM-012` / `PC-022`: the July 2026 Power Pool threads are time-scoped community material. They cannot establish a durable campaign rule, multiplier, threshold, eligibility condition or submission path.
+- `CM-013` / `PC-023`: Genius, VF, fitness and promotion stories are personal experience. Account-level results, identifiers and implied targets remain local-only and cannot become policy.
+- `SE-013` / `PC-019`: forum MCP and agent projects frequently include credentials, direct requests and autonomous execution claims. Their architecture diagrams are advisory only; any direct access path is non-adoptable.
+- `SE-014` / `PC-020`: FastExpr-to-Python equivalence varies with state, history, missing values and profile. No claimed mapping or comparison threshold is a platform contract.
+- `SE-015` / `PC-021`: cache and batching ideas survive sanitization, but source authentication, endpoints, identities and access flow do not.
+- `SE-016` / `PC-024`: controlled mutation is a research discipline, not evidence for any platform check threshold or admission outcome.

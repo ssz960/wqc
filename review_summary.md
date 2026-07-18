@@ -38,3 +38,11 @@ This supplement broadens the sanitized Alpha-practice corpus beyond Consultant m
 The PPA/Power Pool July 2026 source `TOPIC-41658367030039` is retained only as screenshot-visible evidence and is marked for manual logged-in follow-up. No raw forum body, comments, author profile, formula, Alpha expression, result, account data, endpoint, cookie, token, request header, submitted pool or PnL is published.
 
 Highest-value review targets: `PC-013`, `PC-014`, `PC-015`, `PC-016`, `PC-017`, `PC-018`, `public.ppa.neutralized.simple_signal`, `public.ppa.low_turnover.decay_signal`, `public.dataset.score_delta.group_rank`, and `public.risk.factor_neutralized_signal`.
+
+# KNOW-20260718-008 deep-collection supplement
+
+This supplement adds 2 Consultant-mechanism claims, 4 system-engineering claims, 6 Practice Cards and 12 source-index entries from logged-in, read-only Chrome collection. The local corpus now contains 634 full forum bodies across the four Consultant boards; no raw bodies, author data, comments, formulas, identifiers, results, credentials, request details or platform code are published here.
+
+All 12 new sources are `FORUM_EXPERIENCE`. They support safe research-process patterns only: component boundaries, semantic-parity checks, cache/idempotency, controlled experiments and time-scoped campaign metadata. They do not establish admission rules, capacity, quotas, correlation thresholds, promotion criteria, Power Pool eligibility, rewards or execution permissions.
+
+Highest-priority human review: `CM-012`, `CM-013`, `SE-013`, `SE-014`, `SE-015`, `SE-016`, `PC-019`, `PC-020`, `PC-021`, and `PC-022`.

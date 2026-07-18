@@ -16,3 +16,11 @@ Do not adopt quota, reward, Osmosis, Pyramid, or interface-specific values until
 9. Add a Power Pool planning scorecard for simplicity, field count, operator count, turnover, investability, pool diversity and self-correlation risk. It should rank research ideas only; it must not submit or reject candidates.
 10. Add a script-pattern taxonomy to Research Memory: offline analysis, queue/cache/retry, validation, result materialization, template generation and non-adoptable direct execution.
 11. Keep template candidates as placeholder skeletons until a separate template-library contract is approved and registry validation exists.
+
+## KNOW-20260718-008 workflow adoptions
+
+12. Keep MCP, RAG and multi-agent components on the advisory side of the system boundary. They may retrieve sources, propose plans and create review artifacts, but cannot call a real adapter, modify a budget or relax admission.
+13. For any FastExpr-to-Python research conversion, require a private semantic-parity record before queueing: field/type scope, history requirement, state/missing-value semantics, output contract and comparison evidence.
+14. Reuse cache, freshness, idempotency and bounded-batch patterns only in local collectors and approved adapters. Treat all source authentication and direct request code as prohibited material.
+15. Maintain controlled research experiments as immutable hypothesis plus one mutation plus result reference. The scheduler, budget and admission remain independent of the researcher loop.
+16. Store campaign context, Genius/VF observations and promotion discussion as manually reviewed, time-bounded research metadata. Never turn forum anecdotes into scoring, eligibility or automated submission policy.

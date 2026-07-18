@@ -24,3 +24,9 @@ Power Pool pool construction and low-correlation planning,PC-014;PC-015,5,PARTIA
 Genius Master GM promotion planning,PC-016,1,PARTIAL,OFFICIAL,Official Genius mechanics captured; current-quarter thresholds and dashboard values still private/manual.
 Forum Python scripts and mining workflow taxonomy,PC-017,7,PARTIAL,FORUM_STRONG,Reusable queue/cache/validation/template patterns only; direct execution code non-adoptable.
 Dataset operator template-family exploration,PC-018;public.dataset.score_delta.group_rank;public.sparse_event.backfill_rank;public.risk.factor_neutralized_signal,7,PARTIAL,OFFICIAL,Official dataset guides distilled into field-first template lanes; registry validation required.
+Forum MCP and multi-agent research architecture,SE-013;PC-019,3,PARTIAL,FORUM_EXPERIENCE,Layer separation is reusable; direct execution and credentials are non-adoptable.
+FastExpr-to-Python semantic parity,SE-014;PC-020,3,PARTIAL,FORUM_EXPERIENCE,Requires local field/type/history and parity validation; no code or thresholds promoted.
+Offline cache batching and idempotent collection,SE-015;PC-021,1,PARTIAL,FORUM_EXPERIENCE,Generic cache freshness and atomic-write pattern only; source access code is prohibited.
+Controlled candidate experimentation,SE-016;PC-024,2,PARTIAL,FORUM_EXPERIENCE,One-mutation provenance pattern is advisory; run budgets and acceptance remain local policy.
+Time-scoped Power Pool campaign context,CM-012;PC-022,2,PARTIAL,FORUM_EXPERIENCE,Manual current-source verification required; comment claims are not policy.
+Genius and Value-Factor practice narratives,CM-013;PC-023,3,PARTIAL,FORUM_EXPERIENCE,Use only as research-retrospective prompts; official progression rules remain required.
