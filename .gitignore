@@ -1,0 +1,40 @@
+# Secrets and local configuration
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*credential*
+*secret*
+
+# Databases and runtime state
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.log
+*.out
+*.err
+runtime/
+raw/
+imports/
+production/
+private/
+
+# Packages, backups, and bulk data
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+*.bak
+*.backup
+*.csv
+
+# Tool caches
+__pycache__/
+.pytest_cache/
+.DS_Store
+Thumbs.db

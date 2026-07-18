@@ -1,0 +1,81 @@
+{
+  "additionalProperties": false,
+  "properties": {
+    "classification": {
+      "const": "public_sanitized"
+    },
+    "entries": {
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "classification": {
+            "const": "public_sanitized"
+          },
+          "id": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "kind": {
+            "enum": [
+              "skill_manifest",
+              "official_document_reference",
+              "reviewed_knowledge",
+              "template",
+              "field_family",
+              "diagnostic",
+              "negative_experience"
+            ]
+          },
+          "path": {
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9._/-]*$",
+            "type": "string"
+          },
+          "provenance_class": {
+            "enum": [
+              "official_public",
+              "reviewed_public",
+              "original_sanitized"
+            ]
+          },
+          "review_status": {
+            "const": "reviewed"
+          },
+          "sha256": {
+            "pattern": "^[a-f0-9]{64}$",
+            "type": "string"
+          },
+          "size_bytes": {
+            "minimum": 0,
+            "type": "integer"
+          }
+        },
+        "required": [
+          "id",
+          "kind",
+          "path",
+          "sha256",
+          "size_bytes",
+          "classification",
+          "review_status",
+          "provenance_class"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "manifest_version": {
+      "const": 1
+    },
+    "repository_role": {
+      "const": "research_knowledge"
+    }
+  },
+  "required": [
+    "manifest_version",
+    "repository_role",
+    "classification",
+    "entries"
+  ],
+  "title": "Research Knowledge Manifest",
+  "type": "object"
+}
