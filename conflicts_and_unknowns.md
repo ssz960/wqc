@@ -88,3 +88,13 @@
 - `PC-080`: a MEA-specific multi-change repair narrative cannot establish a general transform, settings, or check-failure remedy. Any experiment needs current official terminology and one reversible mutation.
 - `PC-081` and `public.information_role.polarity_cell_hypothesis`: economic roles and polarity help state a research hypothesis, but they do not prove low correlation, coverage, Alpha quality, or field/operator compatibility.
 - `TOPIC-40530659645719`, `TOPIC-40433238987159`, and `TOPIC-39304762113815` contain workflow, prompt, formula, metric, or execution details. Only the bounded-summary, role-taxonomy, and human-AI-code responsibility patterns are retained; direct access paths and numeric guidance are excluded.
+
+## KNOW-20260718-008 March Consultant continuation unknowns
+
+- `SE-035` / `PC-082`: one practitioner workflow supports durable research-state ownership, but it does not establish platform phases, agent authority, or any right to run a simulation. Restart and reconciliation semantics remain private design and test questions.
+- `SE-036` / `PC-084`: MCP tool granularity and response-budget advice are local interface hypotheses. No community tool configuration establishes a current authorized MCP surface or a safe direct-access path.
+- `PC-083` / `PC-085`: semantic field taxonomies and typed imports can improve local planning, but they can misclassify or stale-cache metadata. They are not field availability, operator compatibility, Alpha quality, or admission evidence.
+- `PC-086`: layered memory improves retrieval hygiene only. A memory item cannot become a platform fact, capability grant, quota, or approval.
+- `PC-087` / `PC-088`: temporal health and field-first family selection are private prioritization hypotheses. They do not define Self, Power Pool, Prod, PPA, promotion, or official robustness semantics.
+- `SE-037` / `PC-089`: a client-side bypass proposal does not prove any rate limit or error behavior. Disabling waits, cooldowns, or retry guards remains non-adoptable and conflicts with the project safety boundary.
+- `CM-020`: a second personal advancement retrospective adds no Master, GM, Expert, Value Factor, tower, or feature rule. Current official evidence remains required.

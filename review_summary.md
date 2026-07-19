@@ -100,3 +100,15 @@ All eight sources are `FORUM_EXPERIENCE`. No source establishes a promotion, Val
 The current public set contains 54 claims, 81 Practice Cards, 137 source-index rows, 13 correlation-pipeline evidence rows, and 10 role-only or placeholder template candidates. All new assets are `PENDING_HUMAN_REVIEW` or `HYPOTHESIS_ONLY`; `manifest.json` remains empty under the repository constitution.
 
 Highest-priority human review: `CM-020`, `SE-033`, `SE-034`, `PC-078`, `PC-079`, `PC-080`, `PC-081`, `CPE-013`, and `public.information_role.polarity_cell_hypothesis`.
+
+# KNOW-20260718-008 March Consultant continuation
+
+The local read-only corpus now contains 1,068 complete forum bodies in the same 6,558-topic four-board catalogue. Board coverage is Kunqi 573, Africa 15, Global 81, and Consultant Chinese 399. The latest 11 successful Chinese-board captures remain raw and local-only; three extraction failures were retained only in the isolated retry queue.
+
+This continuation adds 11 sanitized source-index rows, 3 system-engineering claims (`SE-035` through `SE-037`), 8 Practice Cards (`PC-082` through `PC-089`), and 1 role-only Template Candidate (`public.dataset.semantic_taxonomy_hypothesis`). `CM-020` now has a second promotion retrospective source; it remains `UNKNOWN` pending current official evidence. No correlation ordering, capacity, quota, reward, or promotion rule was added.
+
+All new forum source material is `FORUM_EXPERIENCE`; `SE-037` and `PC-089` are `LOCAL_EVIDENCE` for the project governance prohibition on bypass patches. The public set contains 57 claims, 89 Practice Cards, 148 source-index rows, 13 correlation-pipeline evidence rows, and 11 role-only or placeholder template candidates.
+
+No raw post, comment, author identity, field name, prompt, formula, credential, Cookie, token, account data, private result, PnL, submitted pool, request, header, endpoint, or executable platform code is published. Direct automation, direct client configuration, and cooldown-bypass examples are explicitly non-adoptable.
+
+Highest-priority human review: `CM-020`, `SE-035`, `SE-036`, `SE-037`, `PC-082`, `PC-084`, `PC-085`, `PC-087`, `PC-088`, `PC-089`, and `public.dataset.semantic_taxonomy_hypothesis`.

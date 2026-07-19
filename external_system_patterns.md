@@ -104,3 +104,20 @@ Forum and public GitHub sources included direct authentication, endpoint, pollin
 - `TOPIC-41377679573143`: test advisory-cache precision and freshness only with synthetic or approved private observations.
 - `TOPIC-41162636720919`: require an official check definition and one-mutation local protocol before any scoped experiment.
 - `TOPIC-41142979050775`: review the role-only hypothesis contract before field or operator instantiation.
+
+## KNOW-20260718-008 March Consultant Patterns
+
+- A multi-agent research campaign needs one durable state owner, a phase record, bounded delegated reports, and restart recovery. The controller is a research coordinator, not an execution channel. `TOPIC-39255045175191` contains excluded automation details but supports the state-ownership pattern.
+- MCP works best as a narrow typed interface with bounded projections and opaque task references. It should not own a long-running research workflow or return raw result histories into model context. `TOPIC-39251361791255` and `TOPIC-38652207939735` are direct-access sources and therefore non-adoptable beyond this interface lesson.
+- Field metadata can be ingested from approved local exports through a versioned typed snapshot and summarized into a human-reviewed semantic taxonomy. Both raw field lists and database settings remain private. `TOPIC-39234849586967` and `TOPIC-39183798681239` support this local-only planning pattern.
+- Assistant memory should retain redacted conclusions and unresolved questions in separate stable and dated layers. It is retrieval context, never a source of execution authority. `TOPIC-39171807994519` supports this partitioning pattern.
+- Time-split health notes and within-family representative selection are private research-prioritization hypotheses. They do not prove correlation, promotion, PPA, or Osmosis outcomes. `TOPIC-39223135297431`, `TOPIC-39224484288663`, `TOPIC-38932709256727`, and `TOPIC-38870096703639` remain scoped practitioner evidence.
+- A local patch intended to suppress a throttle or wait is a threat-model input, not a recovery recipe. `TOPIC-39117486836375` is retained only to prohibit bypass behavior.
+
+## Additional Manual Review Targets
+
+- `TOPIC-39255045175191`: map session ownership and resume requirements into existing private campaign and scheduler models without importing direct tooling.
+- `TOPIC-39251361791255` and `TOPIC-38652207939735`: review output schemas and context budgets for a future read-only MCP boundary.
+- `TOPIC-39234849586967`: assess a role taxonomy only against an approved current registry snapshot.
+- `TOPIC-39183798681239`: review typed import idempotency and quarantine semantics without copying local connection or collection code.
+- `TOPIC-39117486836375`: verify local throttle fixtures fail closed and cannot be bypassed by dependencies.

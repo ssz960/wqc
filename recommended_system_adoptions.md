@@ -75,3 +75,12 @@ Do not adopt quota, reward, Osmosis, Pyramid, or interface-specific values until
 45. Keep `PC-081` and `public.information_role.polarity_cell_hypothesis` in Template Center intake as non-executable role metadata. Human economic review, registry/type/scope checks, and private correlation validation are required before any CandidatePlan.
 
 `CM-020` does not authorize a Master, GM, Expert, Value Factor, tower, or research-group scoring model. Current official promotion and feature terms remain required.
+
+## KNOW-20260718-008 March Consultant Adoptions
+
+46. Add a private `CampaignSession` contract with one state owner, immutable checkpoint references, bounded child reports, and explicit `UNKNOWN` recovery. It cannot call an adapter or represent an external action as complete.
+47. Keep MCP contracts typed, redacted, and context-bounded. Return a summary or opaque task reference; retain workflow state, budget, admission, and authority in the scheduler and research ledger.
+48. Build field-registry planning around versioned typed snapshots and a human-reviewed semantic taxonomy. Scope, type, coverage, freshness, and source version remain required before an idea enters CandidatePlan review.
+49. Partition assistant memory into stable governance, user constraints, durable project facts, and dated conclusions. Memory is advisory and cannot grant a capability, quota, or execution right.
+50. Retain temporal-health and field-family triage only as private, pre-registered research hypotheses. They cannot become a correlation proxy, official check, admission rule, or submission decision.
+51. Enforce `SE-037` and `PC-089`: client or dependency modifications cannot bypass cooldowns, throttle handling, polling, or audit behavior. Use approved adapter changes and local mocks only.

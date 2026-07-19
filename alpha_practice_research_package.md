@@ -148,3 +148,27 @@ The new promotion source is a personal retrospective, not an official rule. Do n
 1. Obtain current official promotion, Value Factor, role, research-group, and feature documentation before using any progress mechanism in a dashboard or research objective.
 2. Design a private cache-validation fixture that measures scope-matched precision, recall, freshness decay, and Self/Power Pool/Prod separation without exposing expressions or result values.
 3. Review `PC-079` and `SE-033` against the existing CandidatePlan, scheduler, and audit contracts; preserve the approval-packet boundary.
+
+## March Consultant Continuation: Researcher Notes
+
+### Material signal
+
+- Use a single private campaign state owner with checkpoints and bounded role reports. A research agent can scout metadata, classify evidence, or draft a note, but it cannot represent external work as completed.
+- Compress an approved field registry into a human-reviewed semantic taxonomy before planning. Preserve scope, type, cadence, coverage, freshness, and source version; do not expose field names or generate a formula from taxonomy labels alone.
+- Keep assistant tools narrow: typed redacted metadata in, short note or opaque task reference out. Long-lived state, budget, admission, and external authority remain outside MCP.
+- Separate stable governance and project facts from dated conclusions. Persist decisions and open questions rather than raw transcripts, results, candidates, or access material.
+- Treat temporal robustness and within-family representative selection as private research questions. Any score or threshold requires pre-registered local validation and can never stand in for official correlation or a submission check.
+
+### Template-family posture
+
+`public.dataset.semantic_taxonomy_hypothesis` is a non-executable intake record. It captures only generic dataset-scope, economic-role, cadence, data-shape, and transformation-family placeholders. A current private registry, human semantic review, type/scope checks, and normal hard admission are required before any CandidatePlan exists.
+
+### Safety boundary
+
+Community examples of direct tool access, cache configuration, database setup, rate-limit patches, and workflow automation are threat-model material only. Do not copy their connection details, requests, formulas, result handling, cooldown changes, or platform-control paths. A throttle, pending state, or missing audit must remain fail-closed.
+
+### Manual follow-up
+
+1. Reconcile `SE-035` and `PC-082` with private CampaignSession, scheduler, and restart fixtures before adopting a state model.
+2. Define a redacted read-only MCP contract with output-size limits, task references, and no capability to access the adapter or change budgets.
+3. Validate taxonomy coverage, registry-import idempotency, memory expiry, temporal-health stability, and family-triage value on private synthetic or approved data only.
