@@ -106,3 +106,11 @@
 - `SE-040` / `PC-093`: direct correlation code reports partial persistence and retry behavior, but it cannot establish current Self, Power Pool, Prod, pagination, pending, rate-limit, authentication, or response semantics. Missing data must remain `UNKNOWN`.
 - `PC-094`: personal composite scores and claimed outcomes are not platform reward, PPA, Value Factor, or promotion evidence. Weights, input scope, and validity are unverified and remain private hypothesis material.
 - `public.template.profile_scoped_compilation_hypothesis` is a non-executable intake record. It is not a formula, operator recommendation, field list, or server execution contract.
+
+## KNOW-20260718-008 field-profile and hypothesis unknowns
+
+- `SE-041` / `PC-095` / `public.field.profile_first_research_hypothesis`: field shape, coverage, cadence, and distribution metadata are scoped planning inputs only. They do not prove a transformation, data quality, field availability, operator compatibility, Alpha result, or admission outcome. Snapshot source, expiry, and redaction behavior require private validation.
+- `SE-042` / `PC-096` / `CPE-014`: distinct economic-mechanism labels do not establish novelty, lower Self/Power Pool/Prod correlation, drawdown diversification, or performance. Any association must be measured in a private scope-matched study and remains advisory.
+- `PC-097` / `CPE-015`: a local correlation graph is neither an official correlation interface nor a valid elimination rule. Window choice, missingness treatment, edge construction, cluster selection, and representative choice remain local research questions.
+- `PC-098` / `TOPIC-36802364159255`: fixed batch counts, auto-repair instructions, timeout rules, tool names, platform checks, and purported outcomes are not current platform evidence. Credential-dependent autonomous workflows remain non-adoptable.
+- `TOPIC-40288593333527`: all described pyramid membership, field-count, complexity, sequencing, evaluation, and progression rules are forum assertions. They remain `UNKNOWN` until current official evidence is captured.

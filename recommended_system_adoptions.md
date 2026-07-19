@@ -92,3 +92,12 @@ Do not adopt quota, reward, Osmosis, Pyramid, or interface-specific values until
 54. Adopt `SE-039` and `PC-092` only as a private experiment-record pattern: baseline lineage, planned variation, scope, state, and opaque result reference. Do not copy source access code, settings, result criteria, or orchestration loops.
 55. Adopt `SE-040` and `PC-093` as correlation-result integrity requirements: idempotency key, explicit observation state, atomic materialization, and restart checkpoint. Do not use source rate-limit values, request shapes, headers, pool assumptions, or numeric sentinels.
 56. Keep `PC-094` hypothesis-only. A private composite score can order human review but cannot affect admission, scheduler budget, real execution, PPA, Osmosis, reward, Value Factor, or promotion decisions.
+
+## KNOW-20260718-008 Field Profile and Hypothesis Adoptions
+
+57. Add `SE-041` and `PC-095` as a private pre-planning contract: a FieldProfile records profile scope, source version, observed-at time, data shape, coverage, cadence, distribution descriptors, and a human-reviewed economic role. It is immutable, redacted for assistant use, expires on scope or source change, and cannot create a CandidatePlan or configure a transformation.
+58. Keep `SE-042`, `PC-096`, and `CPE-014` hypothesis-only. A HypothesisCard can organize human research review using mechanism, abstract roles, scope, relation to prior ideas, and a validation question. It cannot infer correlation, novelty, ranking, admission, scheduler priority, or an external action.
+59. Keep `PC-097` and `CPE-015` as a private optional family-review pattern after authorized observations exist. Bind the graph to profile, window, missingness policy, provenance, and sensitivity record; retain every member and prohibit any graph output from rejecting, scheduling, or executing a candidate.
+60. Enforce `PC-098`: autonomous credential, simulation, polling, repair, and submission-like workflows are prohibited. Retain them only as local threat-model cases for fail-closed contract tests.
+
+`TOPIC-40288593333527` does not authorize any pyramid rule, field-count target, progression model, or Alpha construction policy. Current official evidence is required before any related design decision.

@@ -124,3 +124,15 @@ The new reusable candidates are a profile-scoped dependency compiler, redacted M
 No raw posts, comments, author identities, credentials, Cookies, tokens, account data, Alpha expressions, settings, result values, PnL, submitted pools, endpoints, headers, or executable direct-platform code are published. `manifest.json` remains empty because all new records are pending human review.
 
 Highest-priority human review: `SE-038`, `SE-039`, `SE-040`, `PC-090`, `PC-091`, `PC-092`, `PC-093`, `PC-094`, and `public.template.profile_scoped_compilation_hypothesis`.
+
+# KNOW-20260718-008 field-profile and hypothesis checkpoint
+
+The local read-only corpus now contains 1,344 complete forum bodies from the same 6,558-topic four-board catalogue: Kunqi 592, Africa 34, Global 110, and Consultant Chinese 608. The isolated retry queue contains 54 pages and is not treated as evidence or completion. The local official Documents index remains 74 documents.
+
+This checkpoint adds 8 sanitized source-index rows, 2 system-engineering claims (`SE-041` and `SE-042`), 4 Practice Cards (`PC-095` through `PC-098`), 2 correlation-pipeline evidence rows (`CPE-014` and `CPE-015`), and one role-only Template Candidate plus one evidence row (`public.field.profile_first_research_hypothesis`). The public set now contains 62 claims, 98 Practice Cards, 166 source-index rows, 15 correlation-pipeline evidence rows, and 13 non-executable template candidates.
+
+The new source set has 1 `FORUM_STRONG` source and 7 `FORUM_EXPERIENCE` sources. No source establishes a platform rule. `PC-098` is `LOCAL_EVIDENCE` for the project governance prohibition on autonomous credential, simulation, polling, repair, or submission-like integration. Field profiles and hypothesis identities are advisory metadata; graph-family triage is private review only; all claims of lower correlation, pyramid conditions, success rate, operational batch size, repair rule, reward, promotion, or platform behavior remain unverified.
+
+No raw post, comment, author identity, field identifier, formula, prompt, credential, Cookie, token, account data, private result, PnL, submitted pool, endpoint, header, or executable platform code is published. `manifest.json` remains empty because all new records are pending human review.
+
+Highest-priority human review: `SE-041`, `SE-042`, `PC-095`, `PC-096`, `PC-097`, `PC-098`, `CPE-014`, `CPE-015`, `public.field.profile_first_research_hypothesis`, and `TOPIC-40288593333527`.

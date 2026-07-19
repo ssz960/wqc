@@ -77,3 +77,7 @@ MCP context projection and assistant response boundaries,SE-036;PC-091,3,PARTIAL
 Private robustness experiment lineage,SE-039;PC-092,1,PARTIAL,FORUM_STRONG,Controlled comparisons need a private ExperimentSpec; no parameter or result threshold is adopted.
 Correlation partial-result recovery,SE-040;PC-093,2,PARTIAL,FORUM_STRONG,Per-observation state and idempotent resume are reusable; interface semantics and limits remain UNKNOWN.
 Composite candidate score and reward inference,PC-094;CM-020,1,GAP,FORUM_EXPERIENCE,Personal weighting cannot establish admission reward promotion or Value Factor policy.
+Field-profile research input,SE-041;PC-095;public.field.profile_first_research_hypothesis,1,PARTIAL,FORUM_EXPERIENCE,Profile descriptors are planning metadata only and need snapshot freshness scope and human semantic review.
+Hypothesis identity and diversity triage,SE-042;PC-096;CPE-014,2,PARTIAL,FORUM_EXPERIENCE,Economic-mechanism labels can organize research notes but do not prove novelty or lower correlation.
+Authorized local graph family triage,PC-097;CPE-015,1,PARTIAL,FORUM_STRONG,Local graph families are private advisory review artifacts and cannot replace Self Power Pool or Prod observations.
+Autonomous platform-facing LLM workflow boundary,PC-098,1,PARTIAL,LOCAL_EVIDENCE,Direct authentication simulation polling and submission-like automation is non-adoptable under project governance.

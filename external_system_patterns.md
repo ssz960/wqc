@@ -129,3 +129,16 @@ Forum and public GitHub sources included direct authentication, endpoint, pollin
 - Model robustness review as a private ExperimentSpec with baseline lineage, intended variation, profile scope, durable completion state, and opaque result reference. Source scripts that authenticate, run, poll, retrieve, or visualize are non-adoptable. `TOPIC-38234815701911` is a cautionary implementation source.
 - Correlation retrieval needs a committed per-observation checkpoint and explicit infrastructure states. Never encode missing, empty, malformed, throttled, or pending work as a usable numeric result; direct retry, endpoint, header, and storage code in `TOPIC-37554208805911` and `TOPIC-37427255135127` is excluded.
 - Personal composite scores can organize private review, but they do not represent platform preference, eligibility, reward, Value Factor, PPA, or promotion. `TOPIC-37433599938071` remains a hypothesis-only scorecard source.
+
+## KNOW-20260718-008 Field Profile and Hypothesis Patterns
+
+- Field preparation should produce a private, profile-scoped metadata projection before an assistant receives any research brief: source version, observed-at time, data shape, coverage, cadence, distribution flags, and human-reviewed economic role. It is not an operator prescription or Alpha-quality result. `TOPIC-34425237001495` contains excluded platform-specific examples.
+- A hypothesis record can capture economic mechanism, abstract data roles, scope, relationship to earlier ideas, and a validation question. It is useful for duplicate-study review but cannot prove lower correlation, novelty, or performance. `TOPIC-37905803233687` and `TOPIC-39703382189463` are practitioner evidence only.
+- A private graph over authorized comparable observations can label family structure for a reviewer. Keep all members and sensitivity records; a graph edge is not a Self, Power Pool, or Prod observation. `TOPIC-34574522475031` supplies a code-bearing, non-adoptable source.
+- Autonomous workflows that combine credentials, research generation, operational retry, simulation, or submission-like actions are prohibited integration patterns. `TOPIC-36802364159255` is retained only as a threat-model source.
+
+## Additional Manual Review Targets
+
+- `TOPIC-40288593333527`: verify claimed pyramid conditions against current official documentation before treating any condition as a platform rule.
+- `TOPIC-40010936184471`: evaluate versioned repair review only with local synthetic fixtures; do not adopt claimed success rates or repair logic.
+- `TOPIC-34574522475031`: review graph-family sensitivity with authorized private data only and prevent graph outputs from reaching any execution path.

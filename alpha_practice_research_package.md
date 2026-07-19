@@ -172,3 +172,23 @@ Community examples of direct tool access, cache configuration, database setup, r
 1. Reconcile `SE-035` and `PC-082` with private CampaignSession, scheduler, and restart fixtures before adopting a state model.
 2. Define a redacted read-only MCP contract with output-size limits, task references, and no capability to access the adapter or change budgets.
 3. Validate taxonomy coverage, registry-import idempotency, memory expiry, temporal-health stability, and family-triage value on private synthetic or approved data only.
+
+## Field Profile and Hypothesis Research Notes
+
+### Material signal
+
+- Before asking an assistant for an idea, build a private FieldProfile that records profile scope, approved source version, observed-at time, data shape, coverage, cadence, distribution descriptors, and a human-reviewed economic role. It is research context, not a formula, transformation recommendation, or Alpha-quality claim.
+- Separate a one-sentence economic mechanism from an expression or field choice. Record the relation to prior ideas and one local validation question. This can reduce repeated research discussion, but it does not establish novelty, low correlation, or expected performance.
+- Local correlation-graph methods can help a human inspect redundant research families after authorized private observations exist. Preserve all candidates, scope, window, missingness treatment, and sensitivity; never turn a graph edge into a platform check or a rejection rule.
+- Community prompts that grant an AI authentication, automatic retry, simulation, polling, or submission-like authority are threat-model material only. The usable boundary remains redacted metadata in and a bounded CandidatePlan or note out.
+
+### Template-family posture
+
+`public.field.profile_first_research_hypothesis` is a non-executable intake record for FieldProfile metadata. It contains no field identifier, formula, operator, settings, result, PnL, submitted pool, credential, endpoint, header, or executable code. A current private registry snapshot, scope/type review, source freshness, human semantic review, normal hard admission, and separate correlation validation are required before any candidate is constructed.
+
+### Manual follow-up
+
+1. Check every claimed pyramid submission condition, evaluation criterion, and progression consequence in `TOPIC-40288593333527` against current official documentation; retain `UNKNOWN` when no official source is found.
+2. Test FieldProfile expiry and profile-mismatch behavior with synthetic fixtures before making it a private planning artifact.
+3. Test graph-family stability only on authorized private data, and prove that its summaries cannot reach admission, scheduling, or an execution adapter.
+4. Review direct AI workflow sources only for negative authority-boundary coverage; do not import their prompts, fixed batch rules, errors, credentials, tools, or action paths.
