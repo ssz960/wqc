@@ -192,3 +192,21 @@ Community examples of direct tool access, cache configuration, database setup, r
 2. Test FieldProfile expiry and profile-mismatch behavior with synthetic fixtures before making it a private planning artifact.
 3. Test graph-family stability only on authorized private data, and prove that its summaries cannot reach admission, scheduling, or an execution adapter.
 4. Review direct AI workflow sources only for negative authority-boundary coverage; do not import their prompts, fixed batch rules, errors, credentials, tools, or action paths.
+
+## Queue, Correlation, and Interface Research Notes
+
+### Material signal
+
+- A private research ledger can preserve campaign intent, opaque candidate batch identity, local review priority, lifecycle state, resource budget, and private result reference through restart. It is not a platform simulator, a slot counter, or a source of external completion truth.
+- A local historical correlation proxy may be studied only as a pre-registered diagnostic with scope, freshness, missingness, false-negative cost, and held-out comparison. It cannot suppress, replace, or infer a Self, Power Pool, or Prod observation.
+- Treat `author_`-prefixed correlation terminology as unresolved interface metadata. Do not infer an author-level average, aggregation population, eligibility condition, or selection behavior without current official evidence.
+- On local interruption, record remote work as `UNKNOWN`; reconcile before any subsequent private decision. Do not translate community cancellation code into a platform-control path.
+- Assistants may write explanations from a redacted research note, but cannot retrieve raw Alpha details, expressions, settings, account data, or results. A description request is not an authorization channel.
+
+### Manual follow-up
+
+1. Capture current official definitions for direct and author-prefixed correlation labels, including population, aggregation, scope, timing, and availability.
+2. Test the private work-ledger contract with duplicate resume, partial write, crash, stale lease, and bounded-expansion fixtures.
+3. Evaluate any local correlation proxy only on a private, scope-matched held-out set and prohibit it from altering external request behavior.
+4. Require explicit human authorization plus official semantics before considering any future remote cancellation capability.
+5. Keep Alpha-type, quota, testing, reward, and promotion stories as official-evidence backlog items rather than research settings or scores.

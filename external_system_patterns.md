@@ -142,3 +142,17 @@ Forum and public GitHub sources included direct authentication, endpoint, pollin
 - `TOPIC-40288593333527`: verify claimed pyramid conditions against current official documentation before treating any condition as a platform rule.
 - `TOPIC-40010936184471`: evaluate versioned repair review only with local synthetic fixtures; do not adopt claimed success rates or repair logic.
 - `TOPIC-34574522475031`: review graph-family sensitivity with authorized private data only and prevent graph outputs from reaching any execution path.
+
+## KNOW-20260718-008 Queue and Boundary Patterns
+
+- A database-backed work ledger can preserve private campaign intent, batch composition, local priority, lifecycle state, and opaque result references through a restart. It must retain one owner, idempotency, resource bounds, and `UNKNOWN` recovery; a local dashboard cannot assert remote completion, quota, or slot availability. `TOPIC-31390861216279` contains excluded automation and result details.
+- A historical local correlation proxy is a calibration experiment, not an authorization shortcut. It cannot suppress or stand in for a Self, Power Pool, or Prod observation. `TOPIC-31431137051927` is a direct-access, private-series source retained only as a hypothesis-risk example.
+- A local interruption does not prove that remote work stopped, was cancelled, freed capacity, or changed quota accounting. Treat it as `UNKNOWN`, then reconcile through the approved read path. Direct remote cancellation code in `TOPIC-31525106377879` is non-adoptable.
+- Credential-backed assistant description workflows expose raw expressions, settings, identifiers, and retrieval capability. Keep assistants on a redacted CandidatePlan or research-note projection only. `TOPIC-37237964114199` is a negative boundary source.
+- `author_`-prefixed correlation labels require a current authoritative interface definition. A forum question and a non-official tutorial cannot establish their population, aggregation, scope, threshold, or availability semantics.
+
+## Additional Manual Review Targets
+
+- `TOPIC-32510738962967`: obtain current official distinction between direct and author-prefixed correlation labels.
+- `TOPIC-32032672214807`: compare Alpha-type, testing, quota, reward, and terminology statements only against current official documentation.
+- `TOPIC-39606431153047`: retain leaderboard observations as promotion/Value-Factor hypothesis material, not a scoring model.

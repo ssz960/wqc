@@ -101,3 +101,13 @@ Do not adopt quota, reward, Osmosis, Pyramid, or interface-specific values until
 60. Enforce `PC-098`: autonomous credential, simulation, polling, repair, and submission-like workflows are prohibited. Retain them only as local threat-model cases for fail-closed contract tests.
 
 `TOPIC-40288593333527` does not authorize any pyramid rule, field-count target, progression model, or Alpha construction policy. Current official evidence is required before any related design decision.
+
+## KNOW-20260718-008 Queue and Interface Adoptions
+
+61. Adopt `PC-099` only as a private research-ledger discipline: immutable campaign intent, opaque work identity, local review priority, separate task and child-batch lifecycle, idempotency key, private result reference, resource cap, and explicit `UNKNOWN` recovery. It cannot call an adapter or represent platform completion.
+62. Keep `PC-100` and `CPE-016` hypothesis-only. A local correlation proxy may be evaluated in a finite private held-out study but cannot suppress, replace, prioritize, or infer an authorized Self, Power Pool, or Prod observation.
+63. Treat `CM-021` and `CPE-017` as a hard semantic gap: author-prefixed correlation labels are opaque until current official definition is reviewed. No scheduler, Selection, Screening, or admission configuration may depend on an inferred meaning.
+64. Enforce `PC-101`: local interruption produces a private `UNKNOWN` state and reconciliation requirement. Direct remote cancellation, slot release, or capacity assumptions are prohibited without current official semantics, explicit human authorization, approved adapter ownership, and audit.
+65. Enforce `PC-102`: assistants receive redacted non-executable plans or research notes only. They cannot receive credential, raw expression, settings, account result, retrieval, mutation, or execution capability.
+
+`CM-020` remains a manual-review backlog. Leaderboard and Grandmaster narratives cannot create a promotion, Value Factor, CAP, pyramid, multiplier, operator, data-category, or engagement scoring model.

@@ -114,3 +114,12 @@
 - `PC-097` / `CPE-015`: a local correlation graph is neither an official correlation interface nor a valid elimination rule. Window choice, missingness treatment, edge construction, cluster selection, and representative choice remain local research questions.
 - `PC-098` / `TOPIC-36802364159255`: fixed batch counts, auto-repair instructions, timeout rules, tool names, platform checks, and purported outcomes are not current platform evidence. Credential-dependent autonomous workflows remain non-adoptable.
 - `TOPIC-40288593333527`: all described pyramid membership, field-count, complexity, sequencing, evaluation, and progression rules are forum assertions. They remain `UNKNOWN` until current official evidence is captured.
+
+## KNOW-20260718-008 queue and interface unknowns
+
+- `PC-099`: a private work ledger can improve restart hygiene, but its task state, priority, result reference, worker lifecycle, dashboard state, and resource limits do not prove platform-side completion, capacity, quota, or permission to retry.
+- `PC-100` / `CPE-016`: a historical private correlation proxy has no captured calibration evidence. It cannot define Prod correlation, a threshold, a lower bound, a false-negative cost, or a safe reason to suppress an authorized observation.
+- `CM-021` / `CPE-017`: direct and `author_`-prefixed correlation labels have unresolved population, aggregation, scope, timing, threshold, and availability semantics. No forum narrative can fill the gap.
+- `PC-101`: a local interruption does not establish remote cancellation, slot release, quota accounting, audit, or recovery semantics. Direct deletion/cancellation remains an account-write path and is non-adoptable.
+- `PC-102`: credential-backed description workflows are raw-retrieval and authority risks. Generated prose cannot substitute for factual review or safely expose expression, settings, result, or account context.
+- `CM-020`: the additional Grandmaster leaderboard narrative adds no Master, GM, Expert, Value Factor, CAP, pyramid, multiplier, operator, dataset, or engagement rule.

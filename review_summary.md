@@ -136,3 +136,15 @@ The new source set has 1 `FORUM_STRONG` source and 7 `FORUM_EXPERIENCE` sources.
 No raw post, comment, author identity, field identifier, formula, prompt, credential, Cookie, token, account data, private result, PnL, submitted pool, endpoint, header, or executable platform code is published. `manifest.json` remains empty because all new records are pending human review.
 
 Highest-priority human review: `SE-041`, `SE-042`, `PC-095`, `PC-096`, `PC-097`, `PC-098`, `CPE-014`, `CPE-015`, `public.field.profile_first_research_hypothesis`, and `TOPIC-40288593333527`.
+
+# KNOW-20260718-008 queue and correlation-interface checkpoint
+
+The local read-only corpus now contains 1,404 complete forum bodies from the same 6,558-topic four-board catalogue: Kunqi 609, Africa 52, Global 129, and Consultant Chinese 614. The isolated retry queue contains 64 pages and is not treated as evidence or completion. The local official Documents index remains 74 documents.
+
+This checkpoint adds 6 sanitized source-index rows, updates `CM-020` with one further promotion anecdote, adds the `UNKNOWN` terminology claim `CM-021`, adds 4 Practice Cards (`PC-099` through `PC-102`), and adds 2 correlation-pipeline evidence rows (`CPE-016` and `CPE-017`). The public set now contains 63 claims, 102 Practice Cards, 172 source-index rows, 17 correlation-pipeline evidence rows, and 13 non-executable template candidates.
+
+The new forum sources are `FORUM_EXPERIENCE`; `PC-101` and `PC-102` are `LOCAL_EVIDENCE` for project-governance prohibitions on direct remote cancellation and credential-backed raw retrieval. A private work ledger is a restart-hygiene pattern only. A historical local correlation proxy is explicitly `HYPOTHESIS_ONLY`. `author_`-prefixed correlation labels, their aggregation, scope, timing, threshold, and availability semantics remain `UNKNOWN`. Promotion, Value Factor, Alpha-type, quota, testing, reward, and cancellation narratives were not promoted to rules.
+
+No raw post, comment, author identity, field identifier, formula, prompt, credential, Cookie, token, account data, private result, PnL, submitted pool, endpoint, header, or executable platform code is published. `manifest.json` remains empty because all candidate records are pending human review.
+
+Highest-priority human review: `CM-020`, `CM-021`, `PC-099`, `PC-100`, `PC-101`, `PC-102`, `CPE-016`, `CPE-017`, `TOPIC-32510738962967`, and `TOPIC-32032672214807`.
