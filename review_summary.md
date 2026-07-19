@@ -112,3 +112,15 @@ All new forum source material is `FORUM_EXPERIENCE`; `SE-037` and `PC-089` are `
 No raw post, comment, author identity, field name, prompt, formula, credential, Cookie, token, account data, private result, PnL, submitted pool, request, header, endpoint, or executable platform code is published. Direct automation, direct client configuration, and cooldown-bypass examples are explicitly non-adoptable.
 
 Highest-priority human review: `CM-020`, `SE-035`, `SE-036`, `SE-037`, `PC-082`, `PC-084`, `PC-085`, `PC-087`, `PC-088`, `PC-089`, and `public.dataset.semantic_taxonomy_hypothesis`.
+
+# KNOW-20260718-008 template and recovery checkpoint
+
+The local read-only corpus now has 1,124 completed topic IDs from the same 6,558-topic four-board catalogue: Kunqi 573, Africa 15, Global 81, and Consultant Chinese 455. The local retry queue contains 56 pages and is not treated as evidence or completion.
+
+This checkpoint adds 10 sanitized source-index rows, three system-engineering claims (`SE-038` through `SE-040`), five Practice Cards (`PC-090` through `PC-094`), and one non-executable template-intake record (`public.template.profile_scoped_compilation_hypothesis`). The public set now contains 60 claims, 94 Practice Cards, 158 source-index rows, 13 correlation-pipeline evidence rows, and 12 role-only or placeholder template candidates. The local official Documents index remains 74 documents.
+
+The new reusable candidates are a profile-scoped dependency compiler, redacted MCP output projections, a private robustness ExperimentSpec, and idempotent correlation-observation recovery. Their source scripts contain direct platform access, authentication, request, result, formula, or account material and are explicitly non-adoptable. Personal scorecard and reward narratives remain `HYPOTHESIS_ONLY` and cannot affect admission, scheduling, execution, PPA, Osmosis, reward, Value Factor, or progression.
+
+No raw posts, comments, author identities, credentials, Cookies, tokens, account data, Alpha expressions, settings, result values, PnL, submitted pools, endpoints, headers, or executable direct-platform code are published. `manifest.json` remains empty because all new records are pending human review.
+
+Highest-priority human review: `SE-038`, `SE-039`, `SE-040`, `PC-090`, `PC-091`, `PC-092`, `PC-093`, `PC-094`, and `public.template.profile_scoped_compilation_hypothesis`.

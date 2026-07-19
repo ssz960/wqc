@@ -121,3 +121,11 @@ Forum and public GitHub sources included direct authentication, endpoint, pollin
 - `TOPIC-39234849586967`: assess a role taxonomy only against an approved current registry snapshot.
 - `TOPIC-39183798681239`: review typed import idempotency and quarantine semantics without copying local connection or collection code.
 - `TOPIC-39117486836375`: verify local throttle fixtures fail closed and cannot be bypassed by dependencies.
+
+## KNOW-20260718-008 Template and Recovery Patterns
+
+- Treat a template as a profile-scoped compilation input, not a runnable formula. Parse its dependencies and resolve field, type, scope, and operator availability against one approved snapshot before it becomes a CandidatePlan. `TOPIC-37192789600791`, `TOPIC-36936703606167`, and `TOPIC-38265775305751` supply experience evidence only; their direct workflow material is excluded.
+- Use purpose-specific MCP projections: redacted, bounded, typed summaries with source version and opaque private-artifact references. A token or context observation does not authorize raw result disclosure, a new tool capability, or an external action. `TOPIC-38013569192983` is a supporting source.
+- Model robustness review as a private ExperimentSpec with baseline lineage, intended variation, profile scope, durable completion state, and opaque result reference. Source scripts that authenticate, run, poll, retrieve, or visualize are non-adoptable. `TOPIC-38234815701911` is a cautionary implementation source.
+- Correlation retrieval needs a committed per-observation checkpoint and explicit infrastructure states. Never encode missing, empty, malformed, throttled, or pending work as a usable numeric result; direct retry, endpoint, header, and storage code in `TOPIC-37554208805911` and `TOPIC-37427255135127` is excluded.
+- Personal composite scores can organize private review, but they do not represent platform preference, eligibility, reward, Value Factor, PPA, or promotion. `TOPIC-37433599938071` remains a hypothesis-only scorecard source.

@@ -84,3 +84,11 @@ Do not adopt quota, reward, Osmosis, Pyramid, or interface-specific values until
 49. Partition assistant memory into stable governance, user constraints, durable project facts, and dated conclusions. Memory is advisory and cannot grant a capability, quota, or execution right.
 50. Retain temporal-health and field-family triage only as private, pre-registered research hypotheses. They cannot become a correlation proxy, official check, admission rule, or submission decision.
 51. Enforce `SE-037` and `PC-089`: client or dependency modifications cannot bypass cooldowns, throttle handling, polling, or audit behavior. Use approved adapter changes and local mocks only.
+
+## KNOW-20260718-008 Template and Recovery Adoptions
+
+52. Adopt `SE-038` and `PC-090`: compile every candidate draft into a dependency manifest and resolve it against a profile hash plus an approved registry snapshot before it may enter CandidatePlan review. Unknown or ambiguous dependencies fail closed.
+53. Adopt `PC-091`: give MCP callers purpose-specific, redacted, bounded projections with source version and opaque private-artifact references. Keep raw data, detailed results, and workflow state outside assistant context.
+54. Adopt `SE-039` and `PC-092` only as a private experiment-record pattern: baseline lineage, planned variation, scope, state, and opaque result reference. Do not copy source access code, settings, result criteria, or orchestration loops.
+55. Adopt `SE-040` and `PC-093` as correlation-result integrity requirements: idempotency key, explicit observation state, atomic materialization, and restart checkpoint. Do not use source rate-limit values, request shapes, headers, pool assumptions, or numeric sentinels.
+56. Keep `PC-094` hypothesis-only. A private composite score can order human review but cannot affect admission, scheduler budget, real execution, PPA, Osmosis, reward, Value Factor, or promotion decisions.

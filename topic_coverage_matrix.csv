@@ -72,3 +72,8 @@ Research memory layering,PC-086,1,PARTIAL,FORUM_EXPERIENCE,Separate stable contr
 Temporal robustness and family triage,PC-087;PC-088,4,PARTIAL,FORUM_EXPERIENCE,Time-split health and field-first family selection remain private advisory hypotheses.
 Client throttle-bypass prohibition,SE-037;PC-089,1,PARTIAL,LOCAL_EVIDENCE,Client or dependency modifications cannot bypass rate limiting or audit behavior.
 Promotion and role progression anecdotes,CM-020,2,GAP,FORUM_EXPERIENCE,Two personal retrospectives still do not establish Master GM Expert or Value Factor mechanisms.
+Template compilation and static candidate validation,SE-038;PC-090;public.template.profile_scoped_compilation_hypothesis,3,PARTIAL,FORUM_STRONG,Dependency manifests and registry snapshots are safety gates not template recipes or execution paths.
+MCP context projection and assistant response boundaries,SE-036;PC-091,3,PARTIAL,FORUM_STRONG,Task-specific redacted projections remain advisory while raw artifacts stay private.
+Private robustness experiment lineage,SE-039;PC-092,1,PARTIAL,FORUM_STRONG,Controlled comparisons need a private ExperimentSpec; no parameter or result threshold is adopted.
+Correlation partial-result recovery,SE-040;PC-093,2,PARTIAL,FORUM_STRONG,Per-observation state and idempotent resume are reusable; interface semantics and limits remain UNKNOWN.
+Composite candidate score and reward inference,PC-094;CM-020,1,GAP,FORUM_EXPERIENCE,Personal weighting cannot establish admission reward promotion or Value Factor policy.

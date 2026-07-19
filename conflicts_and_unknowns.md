@@ -98,3 +98,11 @@
 - `PC-087` / `PC-088`: temporal health and field-first family selection are private prioritization hypotheses. They do not define Self, Power Pool, Prod, PPA, promotion, or official robustness semantics.
 - `SE-037` / `PC-089`: a client-side bypass proposal does not prove any rate limit or error behavior. Disabling waits, cooldowns, or retry guards remains non-adoptable and conflicts with the project safety boundary.
 - `CM-020`: a second personal advancement retrospective adds no Master, GM, Expert, Value Factor, tower, or feature rule. Current official evidence remains required.
+
+## KNOW-20260718-008 template and recovery unknowns
+
+- `SE-038` / `PC-090` / `PC-091`: parser completeness, registry freshness, field type, operator enablement, and semantic suitability are separate questions. A current dependency manifest does not prove an Alpha is meaningful, admissible, or eligible for any platform action.
+- `SE-039` / `PC-092`: community variation studies do not establish a portable robustness setting, parameter family, result threshold, or an authorization to create a simulation. Experiment records remain private and advisory.
+- `SE-040` / `PC-093`: direct correlation code reports partial persistence and retry behavior, but it cannot establish current Self, Power Pool, Prod, pagination, pending, rate-limit, authentication, or response semantics. Missing data must remain `UNKNOWN`.
+- `PC-094`: personal composite scores and claimed outcomes are not platform reward, PPA, Value Factor, or promotion evidence. Weights, input scope, and validity are unverified and remain private hypothesis material.
+- `public.template.profile_scoped_compilation_hypothesis` is a non-executable intake record. It is not a formula, operator recommendation, field list, or server execution contract.
