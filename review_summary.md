@@ -286,3 +286,7 @@ The collector reached 2,942 unique successful topic bodies; 76 entries remain un
 ## Collection Progress Checkpoint 2026-07-22 (no new public evidence)
 
 The collector reached 2,996 unique successful topic bodies; 76 entries remain unresolved/retryable after reconciling JSONL IDs. Local RAG was refreshed from `WQPCommunityState_20260719_consultant_bodies_2996.json`. This checkpoint adds no new public interpretation or platform rule.
+
+## Collection Progress Checkpoint 2026-07-22 (no new public evidence)
+
+The collector reached 3,048 unique successful topic bodies; 76 entries remain unresolved/retryable after reconciling JSONL IDs. Local RAG was refreshed from `WQPCommunityState_20260719_consultant_bodies_3048.json`. This checkpoint adds no new public interpretation or platform rule.
