@@ -197,6 +197,10 @@ The collector reached 1,894 unique successful topic bodies; 87 entries remain un
 
 The collector reached 1,951 unique successful topic bodies; 87 entries remain unresolved/retryable. Local RAG was refreshed from `WQPCommunityState_20260719_consultant_bodies_1951.json`. This checkpoint adds no new public interpretation or platform rule.
 
+## Collection Progress Checkpoint 2026-07-22 (no new public evidence)
+
+The collector reached 2,006 unique successful topic bodies; 88 entries remain unresolved/retryable. Local RAG was refreshed from `WQPCommunityState_20260719_consultant_bodies_2006.json`. This checkpoint adds no new public interpretation or platform rule.
+
 ## Alpha Practice Rotation Checkpoint 2026-07-22
 
 - The local-only Chrome corpus now has 1,736 unique successful topic bodies; 85 entries remain unresolved/retryable and outside evidence. Local RAG was refreshed from `WQPCommunityState_20260719_consultant_bodies_1736.json`.
