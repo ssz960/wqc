@@ -177,3 +177,6 @@ No secret or credential material was published. A repository scan may match poli
 - The local-only Chrome corpus now has 1,621 unique successful topic bodies; 85 unresolved/retryable entries remain outside evidence. The local RAG was refreshed from `WQPCommunityState_20260719_consultant_bodies_1621.json`.
 - This continuation adds 9 source-index rows, 7 Practice Cards (`PC-118`–`PC-124`), and 6 coverage rows. It covers template compilation, local correlation-script risk, Select-rule generation, progression narratives, operator/neutralization hypotheses, and metadata-mutation boundaries.
 - Direct code sources are classified as threat-model or offline patterns only. No credentials, requests, identifiers, formulas, field names, thresholds, private results, PnL, submitted pools, endpoints, or external mutations are published.
+## Collection Progress Checkpoint 2026-07-22 (no new public evidence)
+
+The read-only collector subsequently reached 1,676 unique successful topic bodies; 85 entries remain unresolved/retryable. Local RAG was refreshed from `WQPCommunityState_20260719_consultant_bodies_1676.json`. This is a progress-only update: no additional public source or rule was inferred from the newly captured bodies in this checkpoint.
