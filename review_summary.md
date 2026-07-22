@@ -171,3 +171,9 @@ Highest-priority human review: `PC-103`, `PC-104`, `PC-105`, `PC-106`, `PC-107`,
 ### Sensitive Content Check
 
 No secret or credential material was published. A repository scan may match policy words such as `token`, `Cookie`, `credential`, `request`, or `formula` in exclusion language; these are safety annotations, not values. No raw body, comment, account identity, field identifier, Alpha expression, PnL, submitted pool, endpoint, request header, or executable platform client was added.
+
+## Collection Continuation Checkpoint 2026-07-22
+
+- The local-only Chrome corpus now has 1,621 unique successful topic bodies; 85 unresolved/retryable entries remain outside evidence. The local RAG was refreshed from `WQPCommunityState_20260719_consultant_bodies_1621.json`.
+- This continuation adds 9 source-index rows, 7 Practice Cards (`PC-118`–`PC-124`), and 6 coverage rows. It covers template compilation, local correlation-script risk, Select-rule generation, progression narratives, operator/neutralization hypotheses, and metadata-mutation boundaries.
+- Direct code sources are classified as threat-model or offline patterns only. No credentials, requests, identifiers, formulas, field names, thresholds, private results, PnL, submitted pools, endpoints, or external mutations are published.
