@@ -180,3 +180,10 @@ No secret or credential material was published. A repository scan may match poli
 ## Collection Progress Checkpoint 2026-07-22 (no new public evidence)
 
 The read-only collector subsequently reached 1,676 unique successful topic bodies; 85 entries remain unresolved/retryable. Local RAG was refreshed from `WQPCommunityState_20260719_consultant_bodies_1676.json`. This is a progress-only update: no additional public source or rule was inferred from the newly captured bodies in this checkpoint.
+
+## Alpha Practice Rotation Checkpoint 2026-07-22
+
+- The local-only Chrome corpus now has 1,736 unique successful topic bodies; 85 entries remain unresolved/retryable and outside evidence. Local RAG was refreshed from `WQPCommunityState_20260719_consultant_bodies_1736.json`.
+- This increment adds 14 source-index rows, 13 Practice Cards (`PC-125`–`PC-137`), and 6 coverage rows.
+- New themes: robustness and regional tuning, dual-agent supervision, Osmosis allocation boundaries, MEA data discovery, Python Alpha uncertainty, semantic LLM validation, local filtering/environment manifests, dependency diff review, and prohibited mutation scripts.
+- All direct code, requests, credentials, identifiers, expressions, thresholds, private results, PnL, submitted pools, endpoints, and external mutations remain excluded.
