@@ -108,3 +108,10 @@ Osmosis allocation and competition scripts,PC-128;PC-135,3,GAP,FORUM_STRONG,Allo
 MEA data discovery and Python Alpha uncertainty,PC-130;PC-136,3,GAP,FORUM_EXPERIENCE,Regional data categories and Python Alpha capability require current official verification.
 LLM semantic template validation,PC-131,1,PARTIAL,FORUM_EXPERIENCE,Semantic checklist can guide human review; generated expressions and prompts remain private.
 Local filter, environment, and dependency audit,PC-132;PC-133;PC-134,6,PARTIAL,FORUM_STRONG,Offline schemas, manifests, diffs, and resource bounds are reusable; direct clients and credentials are excluded.
+LLM semantic descriptions and operator context,PC-138;PC-145,3,PARTIAL,FORUM_EXPERIENCE,Semantic context can guide review but no platform retrieval or execution.
+Operator composition and post-update submission review,PC-139;PC-140,3,GAP,FORUM_EXPERIENCE,Operator semantics and current admission require official verification.
+Regional PPA/IND mining experience,PC-141,1,GAP,FORUM_EXPERIENCE,Region and campaign advice remains scope-bound and anecdotal.
+Batch replay checkpoint and retry state,PC-142,1,PARTIAL,FORUM_STRONG,Local idempotency and UNKNOWN recovery are reusable; direct platform code is excluded.
+AI expression construction boundary,PC-143;PC-144,4,PARTIAL,FORUM_STRONG,Bounded agent states and budgets are reusable; unlimited/direct runs are non-adoptable.
+Template discovery and sentiment IND scope,PC-146,2,GAP,FORUM_EXPERIENCE,Role-only template records require current registry and coverage validation.
+Combine and portfolio postmortems,PC-147,3,GAP,FORUM_EXPERIENCE,Personal metrics and selection experiences remain learning material only.
