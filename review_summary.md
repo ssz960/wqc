@@ -334,3 +334,7 @@ The collector reached 3,607 unique successful topic bodies; 78 entries remain un
 ## Collection Progress Checkpoint 2026-07-22 (no new public evidence)
 
 The collector reached 3,662 unique successful topic bodies; 79 entries remain unresolved/retryable after reconciling JSONL IDs. Local RAG was refreshed from `WQPCommunityState_20260719_consultant_bodies_3662.json`. This checkpoint adds no new public interpretation or platform rule.
+
+## Collection Progress Checkpoint 2026-07-22 (no new public evidence)
+
+The read-only Chrome collector reached 5,012 unique successful topic bodies out of the same 6,558-topic four-board Consultant catalogue. 75 pages remain in the local isolated retry queue and are not evidence. Local RAG was refreshed from `WQPCommunityState_20260719_consultant_bodies_5012.json`. This checkpoint adds no public claim, formula, threshold, author data, or platform rule; complete bodies, comments, JSON, and SQLite remain local-only. `manifest.json` remains deliberately empty until human review approves a public entry.
