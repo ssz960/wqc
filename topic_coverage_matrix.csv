@@ -86,3 +86,13 @@ Historical Prod correlation proxy,CPE-016;PC-100,1,GAP,FORUM_EXPERIENCE,A privat
 Author-prefixed correlation semantics,CM-021;CPE-017,2,GAP,FORUM_EXPERIENCE,Population aggregation scope and threshold semantics remain UNKNOWN without current official evidence.
 Interruption and remote cancellation boundary,PC-101,1,PARTIAL,LOCAL_EVIDENCE,Local interruption leads to UNKNOWN and reconciliation; copied cancellation paths are non-adoptable.
 Raw Alpha description and assistant boundary,PC-102,1,PARTIAL,LOCAL_EVIDENCE,Assistants receive redacted non-executable plans only; credential-backed retrieval is prohibited.
+PPA campaign planning and Alpha-type vocabulary,PC-103;PC-110;public.ppa.theme_brief_role_hypothesis,4,PARTIAL,FORUM_EXPERIENCE,PPA and Alpha-type forum material is useful for ThemeBrief and glossary discovery but cannot define reward eligibility routing or scheduler rules.
+Low-correlation and Value-Factor research posture,PC-104;PC-109,6,GAP,FORUM_EXPERIENCE,Low-correlation promotion and payout narratives remain hypothesis-only; official Value Factor reward and progression semantics are still needed.
+Template family decomposition,PC-105;public.template.family_decomposition_hypothesis,3,PARTIAL,FORUM_EXPERIENCE,Broad templates should become role and scope axes before any private field formula or import bundle is constructed.
+AI MCP LangGraph and Python workflow boundary,PC-106;PC-107,6,PARTIAL,FORUM_STRONG,Community workflows provide useful state categories and script taxonomy but direct platform code and credential paths are non-adoptable.
+Tower result ledger and review dashboard,PC-108,2,PARTIAL,FORUM_EXPERIENCE,Code-backed tower and result narratives support an idempotent private ledger only; local dashboard state is not external completion truth.
+Hypothesis-first alpha research workflow,PC-111,2,PARTIAL,FORUM_EXPERIENCE,Economic-question-first stages are advisory research posture and not Admission or scheduler rules.
+Value Factor overfitting and category diversity,PC-112,3,GAP,FORUM_EXPERIENCE,Postmortem themes retained; current VF calculation and promotion mechanics UNKNOWN.
+MCP field/operator assistance and failure boundary,PC-113;PC-114,3,PARTIAL,FORUM_STRONG,Offline knowledge assistance is separable from direct platform clients; direct wrapper is non-adoptable.
+Regional low-self-correlation and Prod-correlation hypotheses,PC-115;PC-117,3,GAP,FORUM_EXPERIENCE,MEA and correlation-reduction narratives require scope-matched local validation.
+Batch code concurrency and local screening patterns,PC-116,3,PARTIAL,FORUM_STRONG,Only bounded local state dependency and recovery patterns are reusable.

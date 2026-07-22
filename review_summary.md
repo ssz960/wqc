@@ -148,3 +148,26 @@ The new forum sources are `FORUM_EXPERIENCE`; `PC-101` and `PC-102` are `LOCAL_E
 No raw post, comment, author identity, field identifier, formula, prompt, credential, Cookie, token, account data, private result, PnL, submitted pool, endpoint, header, or executable platform code is published. `manifest.json` remains empty because all candidate records are pending human review.
 
 Highest-priority human review: `CM-020`, `CM-021`, `PC-099`, `PC-100`, `PC-101`, `PC-102`, `CPE-016`, `CPE-017`, `TOPIC-32510738962967`, and `TOPIC-32032672214807`.
+
+# KNOW-20260718-008 alpha-practice breadth checkpoint
+
+The local read-only corpus contains 1,426 complete forum bodies from the 6,558-topic four-board catalogue: Kunqi 616, Africa 52, Global 138, and Consultant Chinese 620. A transient shell-only batch failed because it had no Chrome session and added three recoverable local error records; no public evidence was created from those failures.
+
+This checkpoint adds 10 sanitized source-index rows, 8 Practice Cards (`PC-103` through `PC-110`), 2 role-only Template Candidates (`public.template.family_decomposition_hypothesis` and `public.ppa.theme_brief_role_hypothesis`), 2 Template Evidence rows, and 5 coverage-matrix rows. It focuses on PPA planning, low-correlation research posture, template decomposition, MCP/LangGraph/Python workflow boundaries, script taxonomy, private work ledgers, and promotion/VF retrospectives.
+
+All new sources are `FORUM_EXPERIENCE` except `PC-106`, which is `FORUM_STRONG` because multiple independent workflow sources converge on the same state-boundary pattern. No forum material establishes PPA, Value Factor, promotion, reward, quota, correlation, Alpha-type routing, scheduler capacity, or platform execution rules.
+
+No raw post, comment, author identity, field identifier, formula, prompt, credential, Cookie, token, account data, private result, PnL, submitted pool, endpoint, header, or executable direct-platform code is published. `manifest.json` remains empty because all candidate records are pending human review.
+
+Highest-priority human review: `PC-103`, `PC-104`, `PC-105`, `PC-106`, `PC-107`, `PC-108`, `PC-110`, `public.template.family_decomposition_hypothesis`, `public.ppa.theme_brief_role_hypothesis`, and `TOPIC-35754591470999`.
+## Collection Checkpoint 2026-07-22
+
+- Local-only Chrome corpus: 1,562 unique successful topic bodies out of the 6,558-topic four-board catalogue; 84 unresolved entries remain retryable and are not evidence.
+- This increment adds 15 source-index rows, 7 Practice Cards (`PC-111`–`PC-117`), 2 non-executable template candidates, 2 template-evidence rows, and 5 topic-coverage rows.
+- Strongest new themes: hypothesis-first alpha research, Value Factor overfitting postmortems, MCP field/operator assistance versus direct clients, MEA regional low-self-correlation hypothesis, Prod-correlation reduction as an experiment axis, and bounded local batch/concurrency patterns.
+- Code-class sources are retained only as generic engineering or threat-model evidence. Direct requests, credentials, identifiers, expressions, platform results, and runnable client code are excluded.
+- RAG refresh completed locally from `WQPCommunityState_20260719_consultant_bodies_1562.json`; raw JSON, SQLite, and complete bodies remain outside public repositories.
+
+### Sensitive Content Check
+
+No secret or credential material was published. A repository scan may match policy words such as `token`, `Cookie`, `credential`, `request`, or `formula` in exclusion language; these are safety annotations, not values. No raw body, comment, account identity, field identifier, Alpha expression, PnL, submitted pool, endpoint, request header, or executable platform client was added.

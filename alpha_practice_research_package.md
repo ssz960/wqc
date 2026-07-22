@@ -210,3 +210,32 @@ Community examples of direct tool access, cache configuration, database setup, r
 3. Evaluate any local correlation proxy only on a private, scope-matched held-out set and prohibit it from altering external request behavior.
 4. Require explicit human authorization plus official semantics before considering any future remote cancellation capability.
 5. Keep Alpha-type, quota, testing, reward, and promotion stories as official-evidence backlog items rather than research settings or scores.
+
+## Alpha Practice Breadth Checkpoint
+
+### Material signal
+
+- PPA work should be framed as a bounded ThemeCampaign: theme scope, signal-role families, neutralization question, diversity question, candidate budget, and stop condition. Forum PPA productivity and trap stories are not reward or eligibility rules.
+- Low-correlation advice appears repeatedly in Consultant Chinese posts, but the reusable asset is a DiversityReview record with mechanism family, role-family distance, observation provenance, freshness, and open questions. Thresholds remain private-validation items.
+- Template posts are most useful when distilled into family decomposition plans. A broad seed becomes role, scope, neutralization, transformation, and risk-check axes before any field, formula, or import bundle exists.
+- MCP, LangGraph, Claude/Gemini, and Python Alpha posts provide workflow vocabulary: intake, field profile, hypothesis, candidate plan, static validation, queue state, private result reference, review note, UNKNOWN. Direct platform access and credentials remain non-adoptable.
+- Value Factor, GM, quarterly reward, and tower narratives are human learning material only. They can inform private postmortems, but cannot change admission, scheduling, budget, PPA routing, or production rules.
+
+### Template-family posture
+
+`public.template.family_decomposition_hypothesis` and `public.ppa.theme_brief_role_hypothesis` are non-executable role records. They contain no real datafield, expression, setting, result, request, endpoint, or code. They are intended for GPT review and future private template-library design, not direct import.
+
+### Manual follow-up
+
+1. Capture current official Alpha-type, PPA, Value Factor, reward, and promotion documents before any dashboard or routing rule uses those concepts.
+2. Validate the DiversityReview and ThemeCampaign records on synthetic or authorized private data before using them to prioritize work.
+3. Build a ScriptPatternIndex that classifies forum scripts as offline analysis, prompt drafting, local validation, queue bookkeeping, or prohibited platform client.
+4. Review all MCP and Python workflow sources for redaction and authority boundaries before adapting any architecture.
+
+## Forum Collection Checkpoint: 2026-07-22
+
+The local four-board catalogue contains 6,558 topics. The read-only Chrome collector now has 1,562 unique successful bodies; the remainder and retry queue stay local and are not treated as evidence. This checkpoint adds hypothesis-first research, Value Factor overfitting postmortems, MCP field/operator learning boundaries, regional correlation hypotheses, and bounded local batch patterns.
+
+New public assets are deliberately role-level: `HypothesisBrief`, `RegionDiversityExperiment`, and `LearningPostmortem`. They contain no field, expression, request, endpoint, account result, credential, or executable platform client. Direct MCP/CLI wrappers and direct optimization prompts are retained only as non-adoptable threat-model sources.
+
+The low-cost research funnel remains advisory and all thresholds are pending local validation: (1) hypothesis and scope brief; (2) registry/profile compatibility; (3) role-family and data-coverage review; (4) cheap private/synthetic diversity and stability checks; (5) human selection of a bounded candidate batch; (6) authorized correlation or platform checks only after admission. No forum observation changes quota, scheduler, Admission, or real execution.
