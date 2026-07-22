@@ -230,3 +230,7 @@ The collector reached 2,230 unique successful topic bodies; 72 entries remain un
 - This increment adds 14 source-index rows, 13 Practice Cards (`PC-125`–`PC-137`), and 6 coverage rows.
 - New themes: robustness and regional tuning, dual-agent supervision, Osmosis allocation boundaries, MEA data discovery, Python Alpha uncertainty, semantic LLM validation, local filtering/environment manifests, dependency diff review, and prohibited mutation scripts.
 - All direct code, requests, credentials, identifiers, expressions, thresholds, private results, PnL, submitted pools, endpoints, and external mutations remain excluded.
+
+## Collection Progress Checkpoint 2026-07-22 (no new public evidence)
+
+The collector reached 2,286 unique successful topic bodies; 72 entries remain unresolved/retryable after reconciling JSONL IDs. Local RAG was refreshed from `WQPCommunityState_20260719_consultant_bodies_2286.json`. This checkpoint adds no new public interpretation or platform rule.
