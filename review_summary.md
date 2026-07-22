@@ -208,6 +208,10 @@ The collector reached 2,006 unique successful topic bodies; 88 entries remain un
 - This increment adds 12 source-index rows, 10 Practice Cards (`PC-138`–`PC-147`), and 7 coverage rows. Themes include LLM semantic context, operator validation, post-update/PPA review, IND troubleshooting, batch replay checkpoints, bounded AI runs, template discovery, and Combine postmortems.
 - Direct code, requests, credentials, identifiers, expressions, thresholds, private results, PnL, submitted pools, endpoints, and external mutations remain excluded.
 
+## Collection Progress Checkpoint 2026-07-22 (no new public evidence)
+
+The collector reached 2,077 unique successful topic bodies; 70 entries remain unresolved/retryable. Local RAG was refreshed from `WQPCommunityState_20260719_consultant_bodies_2077.json`. This checkpoint adds no new public interpretation or platform rule.
+
 ## Alpha Practice Rotation Checkpoint 2026-07-22
 
 - The local-only Chrome corpus now has 1,736 unique successful topic bodies; 85 entries remain unresolved/retryable and outside evidence. Local RAG was refreshed from `WQPCommunityState_20260719_consultant_bodies_1736.json`.
