@@ -24,3 +24,94 @@ Power Pool pool construction and low-correlation planning,PC-014;PC-015,5,PARTIA
 Genius Master GM promotion planning,PC-016,1,PARTIAL,OFFICIAL,Official Genius mechanics captured; current-quarter thresholds and dashboard values still private/manual.
 Forum Python scripts and mining workflow taxonomy,PC-017,7,PARTIAL,FORUM_STRONG,Reusable queue/cache/validation/template patterns only; direct execution code non-adoptable.
 Dataset operator template-family exploration,PC-018;public.dataset.score_delta.group_rank;public.sparse_event.backfill_rank;public.risk.factor_neutralized_signal,7,PARTIAL,OFFICIAL,Official dataset guides distilled into field-first template lanes; registry validation required.
+Forum MCP and multi-agent research architecture,SE-013;PC-019,3,PARTIAL,FORUM_EXPERIENCE,Layer separation is reusable; direct execution and credentials are non-adoptable.
+FastExpr-to-Python semantic parity,SE-014;PC-020,3,PARTIAL,FORUM_EXPERIENCE,Requires local field/type/history and parity validation; no code or thresholds promoted.
+Offline cache batching and idempotent collection,SE-015;PC-021,1,PARTIAL,FORUM_EXPERIENCE,Generic cache freshness and atomic-write pattern only; source access code is prohibited.
+Controlled candidate experimentation,SE-016;PC-024,2,PARTIAL,FORUM_EXPERIENCE,One-mutation provenance pattern is advisory; run budgets and acceptance remain local policy.
+Time-scoped Power Pool campaign context,CM-012;PC-022,2,PARTIAL,FORUM_EXPERIENCE,Manual current-source verification required; comment claims are not policy.
+Genius and Value-Factor practice narratives,CM-013;PC-023,3,PARTIAL,FORUM_EXPERIENCE,Use only as research-retrospective prompts; official progression rules remain required.
+PPA tag mutation and displayed-result narratives,CM-014;PC-032,1,PARTIAL,FORUM_EXPERIENCE,Account-affecting tag actions remain non-adoptable pending current official semantics.
+Research feedback and infrastructure classification,SE-017;PC-029,1,PARTIAL,FORUM_EXPERIENCE,Separate candidate quality from throttled pending timeout and UNKNOWN; no source threshold adopted.
+Capability snapshot freshness,SE-018;PC-028,2,PARTIAL,FORUM_EXPERIENCE,Use an authorized scoped snapshot; forum credential and scraping code excluded.
+Correlation family diversity triage,SE-019;PC-027;CPE-008,1,PARTIAL,FORUM_EXPERIENCE,Offline de-duplication only; no PnL or threshold published.
+Normalized multi-input research intake,SE-020;PC-031,1,PARTIAL,FORUM_EXPERIENCE,Expression and source inputs must converge before hard admission.
+Low-correlation hypothesis and placeholder families,PC-025;PC-026;PC-030;public.polarity_pair.relative_signal;public.industry_neutralized.temporal_signal,5,PARTIAL,FORUM_EXPERIENCE,All formulas reduced to role placeholders; source claims require local validation.
+Batch-local correlation diversity triage,SE-019;PC-033,2,PARTIAL,FORUM_EXPERIENCE,Advisory local family labels only; no Self PP or Prod rule follows.
+Static dependency inventory and complexity review,SE-021;PC-036;PC-041,3,PARTIAL,FORUM_EXPERIENCE,Parser output and field or operator counts need registry and semantic review.
+Field-family similarity and earnings template exploration,SE-022;PC-035;PC-042,2,PARTIAL,FORUM_EXPERIENCE,Scope-bound novelty hypotheses only; type coverage and source freshness need local validation.
+LLM MCP template and description safety boundary,SE-023;PC-037;PC-038,4,PARTIAL,FORUM_EXPERIENCE,Assistants remain advisory and receive only sanitized plans and approved metadata.
+Osmosis allocation and rewards,CM-009;CM-015;PC-039,2,GAP,FORUM_STRONG,No official allocation or reward rule captured; account writes are non-adoptable.
+Combined Power Pool performance narratives,PC-040,1,PARTIAL,FORUM_EXPERIENCE,Personal portfolio observations are hypothesis prompts not policy or account-scoring inputs.
+Candidate quality and portfolio-context review,PC-052,2,PARTIAL,FORUM_EXPERIENCE,Mechanism diversity and correlation language are advisory only; no score or selection rule is adopted.
+AI research assistant boundary,PC-053;PC-056,4,PARTIAL,FORUM_EXPERIENCE,Assistants receive redacted role metadata only and cannot own execution state or budget.
+Python semantic state and data-quality parity,SE-026;PC-054,3,PARTIAL,FORUM_EXPERIENCE,History state missingness types and resources need official confirmation plus private fixtures.
+Idempotent research ledger and recovery,SE-025;PC-055,1,PARTIAL,FORUM_EXPERIENCE,Private candidate identity and lifecycle states are useful; source execution logic is excluded.
+Complexity simplification and numerical hypotheses,PC-057;PC-058,3,PARTIAL,FORUM_EXPERIENCE,Simplification needs semantic proof and advanced numerical methods remain hypothesis-only.
+Promotion payment PPA and Osmosis narratives,PC-059,3,GAP,FORUM_EXPERIENCE,No forum narrative establishes durable eligibility reward allocation or write semantics.
+Daily simulation capacity and local budget safety,CM-018;PC-062,2,GAP,FORUM_EXPERIENCE,Forum counts and reset stories remain UNKNOWN; local budget is safety-only and non-authoritative.
+Approved adapter retry and lifecycle boundary,PC-060,2,PARTIAL,FORUM_EXPERIENCE,Central error taxonomy and idempotency are reusable only behind an approved adapter with no copied access logic.
+Private out-of-sample robustness review,SE-027;PC-061,1,PARTIAL,FORUM_EXPERIENCE,Distributional review is advisory with explicit scope and provenance; it does not define an official gate.
+Role-scoped Skills RAG and research memory,PC-063,4,PARTIAL,FORUM_EXPERIENCE,Modular advisory roles require redaction bounded context and denied adapter access.
+Research lineage and template lifecycle,SE-028;SE-031;PC-064;PC-065;PC-073,4,PARTIAL,FORUM_EXPERIENCE,Private lineage and role taxonomy only; no formula or yield rule is adopted
+Controller worker concurrency and artifact isolation,SE-029;PC-067;PC-068;PC-070,4,PARTIAL,FORUM_EXPERIENCE,Shared scheduler and redacted summary patterns only; capacity remains UNKNOWN
+Candidate repair and registry safety,SE-030;PC-066;PC-072,3,PARTIAL,INFERENCE,Repair is a private proposed version requiring registry and semantic validation
+Direct WQ command control tooling,SE-032;PC-071,3,GAP,LOCAL_EVIDENCE,Execution-capable source projects are prohibited integration patterns
+Osmosis composition and allocation narratives,CM-019;PC-077,1,GAP,FORUM_EXPERIENCE,Current official eligibility reward and account-write semantics remain UNKNOWN
+Local correlation ordering counterexample,CPE-012;PC-069,1,PARTIAL,FORUM_EXPERIENCE,Counterexample prevents a monotonic Self-to-PP rule; no metric semantics or cutoff adopted
+Offline parameter prioritization and controlled repair,PC-074;PC-075,2,PARTIAL,FORUM_EXPERIENCE,Research ranking and mutation discipline only; no quota or execution rule
+AI research role boundary,PC-076;SE-032,3,PARTIAL,FORUM_EXPERIENCE,AI is advisory with redacted context and human-owned decisions
+Correlation cache freshness and advisory use,SE-034;PC-078;CPE-013,1,PARTIAL,FORUM_EXPERIENCE,Cache similarity is a local hypothesis only; it cannot replace a correlation observation or reject a candidate.
+Stage-separated mining campaign and reusable learning,SE-033;PC-079,1,PARTIAL,FORUM_EXPERIENCE,Probe Core Scale Polish and approval-packet stages are local workflow artifacts not platform execution states.
+Scoped regional check-repair hypotheses,PC-080,1,PARTIAL,FORUM_EXPERIENCE,A source-specific repair narrative supports one-mutation private experiments only; no operator or settings recipe is adopted.
+Two-source economic role and polarity template,PC-081;public.information_role.polarity_cell_hypothesis,1,PARTIAL,FORUM_EXPERIENCE,Role diversity and polarity are research metadata; lower correlation remains unproven pending private validation.
+Promotion Value Factor and role progression,CM-020,1,GAP,FORUM_EXPERIENCE,Current Master GM Expert and Value Factor mechanisms remain UNKNOWN without official evidence.
+Research orchestration state ownership,SE-035;PC-082,1,PARTIAL,FORUM_EXPERIENCE,One private state owner checkpoints bounded child work and recovery; no platform authority follows.
+MCP bounded tool contracts,SE-036;PC-084,2,PARTIAL,FORUM_EXPERIENCE,Tool responses remain redacted and bounded while durable workflow state stays in scheduler and ledger.
+Dataset taxonomy and field registry import,PC-083;PC-085,2,PARTIAL,FORUM_EXPERIENCE,Semantic taxonomy and typed snapshot import are local planning aids only.
+Research memory layering,PC-086,1,PARTIAL,FORUM_EXPERIENCE,Separate stable controls and short dated conclusions; memory cannot grant capability.
+Temporal robustness and family triage,PC-087;PC-088,4,PARTIAL,FORUM_EXPERIENCE,Time-split health and field-first family selection remain private advisory hypotheses.
+Client throttle-bypass prohibition,SE-037;PC-089,1,PARTIAL,LOCAL_EVIDENCE,Client or dependency modifications cannot bypass rate limiting or audit behavior.
+Promotion and role progression anecdotes,CM-020,2,GAP,FORUM_EXPERIENCE,Two personal retrospectives still do not establish Master GM Expert or Value Factor mechanisms.
+Template compilation and static candidate validation,SE-038;PC-090;public.template.profile_scoped_compilation_hypothesis,3,PARTIAL,FORUM_STRONG,Dependency manifests and registry snapshots are safety gates not template recipes or execution paths.
+MCP context projection and assistant response boundaries,SE-036;PC-091,3,PARTIAL,FORUM_STRONG,Task-specific redacted projections remain advisory while raw artifacts stay private.
+Private robustness experiment lineage,SE-039;PC-092,1,PARTIAL,FORUM_STRONG,Controlled comparisons need a private ExperimentSpec; no parameter or result threshold is adopted.
+Correlation partial-result recovery,SE-040;PC-093,2,PARTIAL,FORUM_STRONG,Per-observation state and idempotent resume are reusable; interface semantics and limits remain UNKNOWN.
+Composite candidate score and reward inference,PC-094;CM-020,1,GAP,FORUM_EXPERIENCE,Personal weighting cannot establish admission reward promotion or Value Factor policy.
+Field-profile research input,SE-041;PC-095;public.field.profile_first_research_hypothesis,1,PARTIAL,FORUM_EXPERIENCE,Profile descriptors are planning metadata only and need snapshot freshness scope and human semantic review.
+Hypothesis identity and diversity triage,SE-042;PC-096;CPE-014,2,PARTIAL,FORUM_EXPERIENCE,Economic-mechanism labels can organize research notes but do not prove novelty or lower correlation.
+Authorized local graph family triage,PC-097;CPE-015,1,PARTIAL,FORUM_STRONG,Local graph families are private advisory review artifacts and cannot replace Self Power Pool or Prod observations.
+Autonomous platform-facing LLM workflow boundary,PC-098,1,PARTIAL,LOCAL_EVIDENCE,Direct authentication simulation polling and submission-like automation is non-adoptable under project governance.
+Private research work ledger and restart recovery,PC-099,1,PARTIAL,FORUM_EXPERIENCE,Idempotent task and batch lifecycle is a private queue pattern only; local state cannot claim platform completion or capacity.
+Historical Prod correlation proxy,CPE-016;PC-100,1,GAP,FORUM_EXPERIENCE,A private historical proxy is unvalidated and cannot suppress or replace an authorized correlation observation.
+Author-prefixed correlation semantics,CM-021;CPE-017,2,GAP,FORUM_EXPERIENCE,Population aggregation scope and threshold semantics remain UNKNOWN without current official evidence.
+Interruption and remote cancellation boundary,PC-101,1,PARTIAL,LOCAL_EVIDENCE,Local interruption leads to UNKNOWN and reconciliation; copied cancellation paths are non-adoptable.
+Raw Alpha description and assistant boundary,PC-102,1,PARTIAL,LOCAL_EVIDENCE,Assistants receive redacted non-executable plans only; credential-backed retrieval is prohibited.
+PPA campaign planning and Alpha-type vocabulary,PC-103;PC-110;public.ppa.theme_brief_role_hypothesis,4,PARTIAL,FORUM_EXPERIENCE,PPA and Alpha-type forum material is useful for ThemeBrief and glossary discovery but cannot define reward eligibility routing or scheduler rules.
+Low-correlation and Value-Factor research posture,PC-104;PC-109,6,GAP,FORUM_EXPERIENCE,Low-correlation promotion and payout narratives remain hypothesis-only; official Value Factor reward and progression semantics are still needed.
+Template family decomposition,PC-105;public.template.family_decomposition_hypothesis,3,PARTIAL,FORUM_EXPERIENCE,Broad templates should become role and scope axes before any private field formula or import bundle is constructed.
+AI MCP LangGraph and Python workflow boundary,PC-106;PC-107,6,PARTIAL,FORUM_STRONG,Community workflows provide useful state categories and script taxonomy but direct platform code and credential paths are non-adoptable.
+Tower result ledger and review dashboard,PC-108,2,PARTIAL,FORUM_EXPERIENCE,Code-backed tower and result narratives support an idempotent private ledger only; local dashboard state is not external completion truth.
+Hypothesis-first alpha research workflow,PC-111,2,PARTIAL,FORUM_EXPERIENCE,Economic-question-first stages are advisory research posture and not Admission or scheduler rules.
+Value Factor overfitting and category diversity,PC-112,3,GAP,FORUM_EXPERIENCE,Postmortem themes retained; current VF calculation and promotion mechanics UNKNOWN.
+MCP field/operator assistance and failure boundary,PC-113;PC-114,3,PARTIAL,FORUM_STRONG,Offline knowledge assistance is separable from direct platform clients; direct wrapper is non-adoptable.
+Regional low-self-correlation and Prod-correlation hypotheses,PC-115;PC-117,3,GAP,FORUM_EXPERIENCE,MEA and correlation-reduction narratives require scope-matched local validation.
+Batch code concurrency and local screening patterns,PC-116,3,PARTIAL,FORUM_STRONG,Only bounded local state dependency and recovery patterns are reusable.
+Template-to-candidate compilation boundary,PC-118,2,PARTIAL,FORUM_STRONG,Placeholder parsing can inform offline template intake; authentication and execution paths are excluded.
+Local correlation calculator threat model,PC-119,1,GAP,FORUM_STRONG,Credential-backed local SC/Prod scripts are non-adoptable and cannot establish official semantics.
+Select rule compiler and batch planning,PC-120,2,PARTIAL,FORUM_STRONG,Local rule compilation and idempotency are advisory; platform selection behavior remains UNKNOWN.
+Promotion habits and Genius progression narratives,PC-121;PC-124,5,GAP,FORUM_EXPERIENCE,Community rank/VF/Pyramid observations remain human learning material only.
+Operator structure and neutralization hypotheses,PC-122,2,GAP,FORUM_EXPERIENCE,Semantics and scope require current registry and local validation.
+Alpha metadata mutation boundary,PC-123,1,PARTIAL,FORUM_STRONG,Batch tag updates are a prohibited external side effect; only local suggestions are allowed.
+Robustness, risk, and regional tuning patterns,PC-125;PC-126;PC-129,6,PARTIAL,FORUM_EXPERIENCE,Stability and IND/MEA observations are scope-bound experiments, not global parameter rules.
+Dual-agent and layered research workflow,PC-127;PC-137,5,PARTIAL,FORUM_STRONG,Independent review and layered state are reusable only with offline data and no external actions.
+Osmosis allocation and competition scripts,PC-128;PC-135,3,GAP,FORUM_STRONG,Allocation narratives are advisory and mutation scripts are non-adoptable.
+MEA data discovery and Python Alpha uncertainty,PC-130;PC-136,3,GAP,FORUM_EXPERIENCE,Regional data categories and Python Alpha capability require current official verification.
+LLM semantic template validation,PC-131,1,PARTIAL,FORUM_EXPERIENCE,Semantic checklist can guide human review; generated expressions and prompts remain private.
+Local filter, environment, and dependency audit,PC-132;PC-133;PC-134,6,PARTIAL,FORUM_STRONG,Offline schemas, manifests, diffs, and resource bounds are reusable; direct clients and credentials are excluded.
+LLM semantic descriptions and operator context,PC-138;PC-145,3,PARTIAL,FORUM_EXPERIENCE,Semantic context can guide review but no platform retrieval or execution.
+Operator composition and post-update submission review,PC-139;PC-140,3,GAP,FORUM_EXPERIENCE,Operator semantics and current admission require official verification.
+Regional PPA/IND mining experience,PC-141,1,GAP,FORUM_EXPERIENCE,Region and campaign advice remains scope-bound and anecdotal.
+Batch replay checkpoint and retry state,PC-142,1,PARTIAL,FORUM_STRONG,Local idempotency and UNKNOWN recovery are reusable; direct platform code is excluded.
+AI expression construction boundary,PC-143;PC-144,4,PARTIAL,FORUM_STRONG,Bounded agent states and budgets are reusable; unlimited/direct runs are non-adoptable.
+Template discovery and sentiment IND scope,PC-146,2,GAP,FORUM_EXPERIENCE,Role-only template records require current registry and coverage validation.
+Combine and portfolio postmortems,PC-147,3,GAP,FORUM_EXPERIENCE,Personal metrics and selection experiences remain learning material only.
